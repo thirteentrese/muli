@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: discord-bot
+    env: node
+    plan: free
+    buildCommand: npm install && npx esbuild server/bot-only.ts --platform=node --packages=external --bundle --format=esm --outdir=dist
+    startCommand: NODE_ENV=production node dist/bot-only.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DISCORD_BOT_TOKEN
+        sync: false
+      - key: DISCORD_CLIENT_ID
+        sync: false
+    healthCheckPath: /health

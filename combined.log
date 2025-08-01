@@ -1,0 +1,2025 @@
+2025-07-31T05:04:34.259Z info: Connecting to Discord...
+2025-07-31T05:04:34.306Z info: Web server started on port 3000
+2025-07-31T05:04:34.972Z info: Bot logged in as ᴗ•#4543
+2025-07-31T05:04:34.973Z info: Started refreshing application (/) commands.
+2025-07-31T05:04:35.302Z info: Successfully reloaded application (/) commands.
+2025-07-31T05:05:07.377Z info: Ticket #1 created by thirteentrese in KA
+2025-07-31T05:05:20.456Z info: Ticket channel 1400343496564412519 deleted by thirteentrese
+2025-07-31T05:13:03.454Z info: Connecting to Discord...
+2025-07-31T05:13:03.481Z info: Web server started on port 3000
+2025-07-31T05:13:03.888Z info: Bot logged in as ᴗ•#4543
+2025-07-31T05:13:03.889Z info: Started refreshing application (/) commands.
+2025-07-31T05:13:04.134Z info: Successfully reloaded application (/) commands.
+2025-07-31T05:15:51.382Z info: Connecting to Discord...
+2025-07-31T05:15:51.414Z info: Web server started on port 3000
+2025-07-31T05:15:51.927Z info: Bot logged in as ᴗ•#4543
+2025-07-31T05:15:51.927Z info: Started refreshing application (/) commands.
+2025-07-31T05:15:52.210Z info: Successfully reloaded application (/) commands.
+2025-07-31T06:28:54.782Z info: Connecting to Discord...
+2025-07-31T06:28:54.821Z info: Web server started on port 3000
+2025-07-31T06:28:55.696Z info: Bot logged in as ᴗ•#4543
+2025-07-31T06:28:55.697Z info: Started refreshing application (/) commands.
+2025-07-31T06:28:55.896Z info: Successfully reloaded application (/) commands.
+2025-07-31T06:29:40.572Z error: Error sending KA welcome message: Unknown interaction
+2025-07-31T06:29:40.661Z error: Error handling command ka: Unknown interaction
+2025-07-31T06:29:40.749Z error: Error handling interaction: Unknown interaction
+2025-07-31T06:36:05.909Z info: Connecting to Discord...
+2025-07-31T06:36:05.934Z info: Web server started on port 3000
+2025-07-31T06:36:06.398Z info: Bot logged in as ᴗ•#4543
+2025-07-31T06:36:06.398Z info: Started refreshing application (/) commands.
+2025-07-31T06:36:06.611Z info: Successfully reloaded application (/) commands.
+2025-07-31T06:46:02.316Z info: Connecting to Discord...
+2025-07-31T06:46:02.341Z info: Web server started on port 3000
+2025-07-31T06:46:02.731Z info: Bot logged in as ᴗ•#4543
+2025-07-31T06:46:02.732Z info: Started refreshing application (/) commands.
+2025-07-31T06:46:03.014Z info: Successfully reloaded application (/) commands.
+2025-07-31T07:04:58.669Z info: Connecting to Discord...
+2025-07-31T07:04:58.699Z info: Web server started on port 3000
+2025-07-31T07:04:59.120Z info: Bot logged in as ᴗ•#4543
+2025-07-31T07:04:59.120Z info: Started refreshing application (/) commands.
+2025-07-31T07:04:59.404Z info: Successfully reloaded application (/) commands.
+2025-07-31T07:10:07.103Z error: Failed to remove role 1400368970560700528: Missing Permissions
+2025-07-31T07:10:07.287Z error: Failed to add role 1400369079562408056: Missing Permissions
+2025-07-31T07:10:14.769Z error: Failed to remove role 1400368970560700528: Missing Permissions
+2025-07-31T07:10:18.475Z error: Failed to remove role 1400368970560700528: Missing Permissions
+2025-07-31T07:10:18.599Z error: Failed to add role 1400369079562408056: Missing Permissions
+2025-07-31T07:10:54.868Z error: Failed to add role 1400369079562408056: Missing Permissions
+2025-07-31T07:11:34.974Z error: Failed to add role 1400369079562408056: Missing Permissions
+2025-07-31T07:11:38.261Z error: Failed to add role 1400369155282047077: Missing Permissions
+2025-07-31T07:13:12.192Z info: Ticket #1 created by rdntrcky in KA
+2025-07-31T07:13:38.642Z info: Ticket channel 1400375728545206312 deleted by thirteentrese
+2025-07-31T07:16:29.829Z info: Connecting to Discord...
+2025-07-31T07:16:29.877Z info: Web server started on port 3000
+2025-07-31T07:16:30.406Z info: Bot logged in as ᴗ•#4543
+2025-07-31T07:16:30.407Z info: Started refreshing application (/) commands.
+2025-07-31T07:16:30.688Z info: Successfully reloaded application (/) commands.
+2025-07-31T07:16:47.534Z info: Ticket #1 created by rdntrcky in KA
+2025-07-31T07:17:04.743Z info: Ticket ticket-1-rdntrcky logged to archived-tickets channel
+2025-07-31T07:17:15.288Z info: Ticket channel 1400376632916836403 deleted by thirteentrese
+2025-07-31T07:17:50.912Z info: Ticket #2 created by rdntrcky in KA
+2025-07-31T07:17:55.953Z info: Ticket ticket-2-rdntrcky logged to archived-tickets channel
+2025-07-31T07:18:06.574Z info: Ticket channel 1400376898843967511 deleted by thirteentrese
+2025-07-31T07:19:36.006Z info: Connecting to Discord...
+2025-07-31T07:19:36.034Z info: Web server started on port 3000
+2025-07-31T07:19:36.714Z info: Bot logged in as ᴗ•#4543
+2025-07-31T07:19:36.715Z info: Started refreshing application (/) commands.
+2025-07-31T07:19:36.997Z info: Successfully reloaded application (/) commands.
+2025-07-31T07:19:48.391Z info: Ticket #1 created by rdntrcky in KA
+2025-07-31T07:20:13.027Z info: Ticket ticket-1-rdntrcky logged to archived-tickets channel
+2025-07-31T07:20:23.588Z info: Ticket channel 1400377391313850419 deleted by thirteentrese
+2025-07-31T07:20:50.085Z error: Failed to add role 1400369079562408056: Missing Permissions
+2025-07-31T07:20:54.915Z error: Failed to add role 1400369011878793306: Missing Permissions
+2025-07-31T15:50:46.278Z info: Connecting to Discord...
+2025-07-31T15:50:46.300Z info: Web server started on port 3000
+2025-07-31T15:50:46.827Z info: Bot logged in as ᴗ•#4543
+2025-07-31T15:50:46.828Z info: Started refreshing application (/) commands.
+2025-07-31T15:50:47.143Z info: Successfully reloaded application (/) commands.
+2025-07-31T16:33:33.874Z info: Connecting to Discord...
+2025-07-31T16:33:33.947Z info: Web server started on port 3000
+2025-07-31T16:33:34.777Z info: Bot logged in as ᴗ•#4543
+2025-07-31T16:33:34.777Z info: Started refreshing application (/) commands.
+2025-07-31T16:33:35.003Z info: Successfully reloaded application (/) commands.
+2025-07-31T16:44:14.445Z info: Connecting to Discord...
+2025-07-31T16:44:14.476Z info: Web server started on port 3000
+2025-07-31T16:44:14.919Z info: Bot logged in as ᴗ•#4543
+2025-07-31T16:44:14.919Z info: Started refreshing application (/) commands.
+2025-07-31T16:44:15.144Z info: Successfully reloaded application (/) commands.
+2025-07-31T16:51:09.763Z info: Connecting to Discord...
+2025-07-31T16:51:09.799Z info: Web server started on port 3000
+2025-07-31T16:51:10.299Z info: Bot logged in as ᴗ•#4543
+2025-07-31T16:51:10.300Z info: Started refreshing application (/) commands.
+2025-07-31T16:51:10.506Z info: Successfully reloaded application (/) commands.
+2025-07-31T17:03:53.262Z info: Connecting to Discord...
+2025-07-31T17:03:53.286Z info: Web server started on port 3000
+2025-07-31T17:03:53.797Z info: Bot logged in as ᴗ•#4543
+2025-07-31T17:03:53.797Z info: Started refreshing application (/) commands.
+2025-07-31T17:03:54.056Z info: Successfully reloaded application (/) commands.
+2025-07-31T17:04:01.298Z error: Error setting up ticket system: Invalid Form Body
+components[0].components[0].options[0].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+components[0].components[0].options[1].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+components[0].components[0].options[2].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+components[0].components[0].options[3].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+components[0].components[0].options[4].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+components[0].components[0].options[5].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+2025-07-31T17:04:26.648Z error: Error setting up ticket system: Invalid Form Body
+components[0].components[0].options[0].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+components[0].components[0].options[1].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+components[0].components[0].options[2].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+components[0].components[0].options[3].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+components[0].components[0].options[4].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+components[0].components[0].options[5].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji
+2025-07-31T17:06:57.583Z info: Connecting to Discord...
+2025-07-31T17:06:57.631Z info: Web server started on port 3000
+2025-07-31T17:06:58.073Z info: Bot logged in as ᴗ•#4543
+2025-07-31T17:06:58.073Z info: Started refreshing application (/) commands.
+2025-07-31T17:06:58.274Z info: Successfully reloaded application (/) commands.
+2025-07-31T17:09:47.052Z info: Connecting to Discord...
+2025-07-31T17:09:47.080Z info: Web server started on port 3000
+2025-07-31T17:09:47.545Z info: Bot logged in as ᴗ•#4543
+2025-07-31T17:09:47.546Z info: Started refreshing application (/) commands.
+2025-07-31T17:09:48.036Z info: Successfully reloaded application (/) commands.
+2025-07-31T17:10:07.308Z info: Ticket #1 created by thirteentrese in KA
+2025-07-31T17:10:27.011Z info: Ticket ticket-1-thirteentrese logged to archived-tickets channel
+2025-07-31T17:10:37.650Z info: Ticket channel 1400525949262499981 deleted by thirteentrese
+2025-07-31T17:10:39.270Z info: Ticket #2 created by thirteentrese in KA
+2025-07-31T17:10:52.361Z info: Ticket #3 created by thirteentrese in KA
+2025-07-31T17:10:56.436Z info: Ticket #4 created by thirteentrese in KA
+2025-07-31T17:10:59.825Z info: Ticket #5 created by thirteentrese in KA
+2025-07-31T17:11:02.701Z info: Ticket #6 created by thirteentrese in KA
+2025-07-31T17:11:24.131Z info: Ticket #7 created by thirteentrese in KA
+2025-07-31T17:11:28.774Z info: Ticket ticket-7-thirteentrese logged to archived-tickets channel
+2025-07-31T17:11:30.484Z info: Ticket ticket-6-thirteentrese logged to archived-tickets channel
+2025-07-31T17:11:31.826Z info: Ticket ticket-5-thirteentrese logged to archived-tickets channel
+2025-07-31T17:11:32.861Z info: Ticket ticket-4-thirteentrese logged to archived-tickets channel
+2025-07-31T17:11:33.949Z info: Ticket ticket-3-thirteentrese logged to archived-tickets channel
+2025-07-31T17:11:35.048Z info: Ticket ticket-2-thirteentrese logged to archived-tickets channel
+2025-07-31T17:11:39.195Z info: Ticket channel 1400526271188045977 deleted by thirteentrese
+2025-07-31T17:11:40.908Z info: Ticket channel 1400526180846927934 deleted by thirteentrese
+2025-07-31T17:11:42.289Z info: Ticket channel 1400526169819844768 deleted by thirteentrese
+2025-07-31T17:11:43.307Z info: Ticket channel 1400526149083205706 deleted by thirteentrese
+2025-07-31T17:11:44.450Z info: Ticket channel 1400526137737740348 deleted by thirteentrese
+2025-07-31T17:11:45.498Z info: Ticket channel 1400526082385514668 deleted by thirteentrese
+2025-07-31T17:18:56.098Z info: Connecting to Discord...
+2025-07-31T17:18:56.147Z info: Web server started on port 3000
+2025-07-31T17:18:56.716Z info: Bot logged in as ᴗ•#4543
+2025-07-31T17:18:56.716Z info: Started refreshing application (/) commands.
+2025-07-31T17:18:57.147Z info: Successfully reloaded application (/) commands.
+2025-07-31T17:20:22.071Z info: Connecting to Discord...
+2025-07-31T17:20:22.099Z info: Web server started on port 3000
+2025-07-31T17:20:22.636Z info: Bot logged in as ᴗ•#4543
+2025-07-31T17:20:22.637Z info: Started refreshing application (/) commands.
+2025-07-31T17:20:23.124Z info: Successfully reloaded application (/) commands.
+2025-07-31T17:24:12.495Z info: Connecting to Discord...
+2025-07-31T17:24:12.535Z info: Web server started on port 3000
+2025-07-31T17:24:12.974Z info: Bot logged in as ᴗ•#4543
+2025-07-31T17:24:12.974Z info: Started refreshing application (/) commands.
+2025-07-31T17:24:13.928Z info: Successfully reloaded application (/) commands.
+2025-07-31T17:24:26.571Z info: Connecting to Discord...
+2025-07-31T17:24:26.597Z info: Web server started on port 3000
+2025-07-31T17:24:27.201Z info: Bot logged in as ᴗ•#4543
+2025-07-31T17:24:27.202Z info: Started refreshing application (/) commands.
+2025-07-31T17:24:27.428Z info: Successfully reloaded application (/) commands.
+2025-07-31T17:26:30.491Z info: Connecting to Discord...
+2025-07-31T17:26:30.538Z info: Web server started on port 3000
+2025-07-31T17:26:30.975Z info: Bot logged in as ᴗ•#4543
+2025-07-31T17:26:30.976Z info: Started refreshing application (/) commands.
+2025-07-31T17:26:31.181Z info: Successfully reloaded application (/) commands.
+2025-07-31T17:28:57.898Z info: Connecting to Discord...
+2025-07-31T17:28:57.932Z info: Web server started on port 3000
+2025-07-31T17:28:58.526Z info: Bot logged in as ᴗ•#4543
+2025-07-31T17:28:58.526Z info: Started refreshing application (/) commands.
+2025-07-31T17:28:58.768Z info: Successfully reloaded application (/) commands.
+2025-07-31T17:32:07.685Z info: Connecting to Discord...
+2025-07-31T17:32:07.713Z info: Web server started on port 3000
+2025-07-31T17:32:08.292Z info: Bot logged in as ᴗ•#4543
+2025-07-31T17:32:08.293Z info: Started refreshing application (/) commands.
+2025-07-31T17:32:08.532Z info: Successfully reloaded application (/) commands.
+2025-07-31T17:33:27.916Z info: Connecting to Discord...
+2025-07-31T17:33:27.949Z info: Web server started on port 3000
+2025-07-31T17:33:28.456Z info: Bot logged in as ᴗ•#4543
+2025-07-31T17:33:28.457Z info: Started refreshing application (/) commands.
+2025-07-31T17:33:28.684Z info: Successfully reloaded application (/) commands.
+2025-07-31T17:48:13.886Z info: Connecting to Discord...
+2025-07-31T17:48:13.916Z info: Web server started on port 3000
+2025-07-31T17:48:14.509Z info: Bot logged in as ᴗ•#4543
+2025-07-31T17:48:14.510Z info: Started refreshing application (/) commands.
+2025-07-31T17:48:15.257Z info: Successfully reloaded application (/) commands.
+2025-07-31T17:49:33.666Z info: Ticket #1 created by thirteentrese in KA
+2025-07-31T17:49:38.846Z info: Ticket ticket-1-thirteentrese logged to archived-tickets channel
+2025-07-31T17:49:49.327Z info: Ticket channel 1400535874147451117 deleted by thirteentrese
+2025-07-31T17:54:33.510Z info: Connecting to Discord...
+2025-07-31T17:54:33.549Z info: Web server started on port 3000
+2025-07-31T17:54:34.072Z info: Bot logged in as ᴗ•#4543
+2025-07-31T17:54:34.073Z info: Started refreshing application (/) commands.
+2025-07-31T17:54:34.284Z info: Successfully reloaded application (/) commands.
+2025-07-31T17:57:00.140Z info: Connecting to Discord...
+2025-07-31T17:57:00.179Z info: Web server started on port 3000
+2025-07-31T17:57:00.701Z info: Bot logged in as ᴗ•#4543
+2025-07-31T17:57:00.701Z info: Started refreshing application (/) commands.
+2025-07-31T17:57:01.027Z info: Successfully reloaded application (/) commands.
+2025-07-31T17:57:36.355Z info: Media-only mode enabled for channel <#1400536984232919163> in guild 1184864945142251530
+2025-07-31T17:57:53.628Z info: Deleted text-only message in media-only channel media-only-test by thirteentrese
+2025-07-31T17:58:04.741Z info: Created media thread "₁₃'s media" in media-only-test for thirteentrese
+2025-07-31T17:58:40.378Z info: Created media thread "₁₃'s media" in media-only-test for thirteentrese
+2025-07-31T17:58:47.498Z info: Created media thread "₁₃'s media" in media-only-test for thirteentrese
+2025-07-31T17:59:33.125Z info: Created media thread "₁₃'s media" in media-only-test for thirteentrese
+2025-07-31T18:06:58.053Z info: Connecting to Discord...
+2025-07-31T18:06:58.083Z info: Web server started on port 3000
+2025-07-31T18:06:58.628Z info: Bot logged in as ᴗ•#4543
+2025-07-31T18:06:58.629Z info: Started refreshing application (/) commands.
+2025-07-31T18:06:58.978Z info: Successfully reloaded application (/) commands.
+2025-07-31T18:07:40.591Z info: Media-only mode enabled for channel <#1400540368755359755> in guild 1184864945142251530
+2025-07-31T18:07:49.595Z info: Deleted text-only message in media-only channel test by thirteentrese
+2025-07-31T18:07:55.384Z info: Created media thread "₁₃'s media" in test for thirteentrese
+2025-07-31T18:08:25.596Z info: Created media thread "₁₃'s media" in test for thirteentrese
+2025-07-31T18:08:26.133Z info: Deleted text-only message in media-only channel test by thirteentrese
+2025-07-31T18:09:08.977Z info: Connecting to Discord...
+2025-07-31T18:09:09.004Z info: Web server started on port 3000
+2025-07-31T18:09:09.458Z info: Bot logged in as ᴗ•#4543
+2025-07-31T18:09:09.459Z info: Started refreshing application (/) commands.
+2025-07-31T18:09:09.694Z info: Successfully reloaded application (/) commands.
+2025-07-31T18:09:46.095Z info: Media-only mode enabled for channel <#1400540368755359755> in guild 1184864945142251530
+2025-07-31T18:10:06.759Z info: Created media thread "₁₃ (July, 31 2025)" in test for thirteentrese
+2025-07-31T18:13:50.496Z info: Connecting to Discord...
+2025-07-31T18:13:50.528Z info: Web server started on port 3000
+2025-07-31T18:13:51.247Z info: Bot logged in as ᴗ•#4543
+2025-07-31T18:13:51.247Z info: Started refreshing application (/) commands.
+2025-07-31T18:13:51.486Z info: Successfully reloaded application (/) commands.
+2025-07-31T18:14:25.288Z info: Media-only mode enabled for channel <#1400540368755359755> in guild 1184864945142251530
+2025-07-31T18:14:26.621Z info: Deleted text-only message in media-only channel test by thirteentrese
+2025-07-31T18:14:28.449Z info: Deleted text-only message in media-only channel test by thirteentrese
+2025-07-31T18:14:30.409Z info: Deleted text-only message in media-only channel test by thirteentrese
+2025-07-31T18:14:42.743Z info: Created media thread "₁₃ (July 31, 2025)" in test for thirteentrese
+2025-07-31T18:17:25.096Z info: Deleted text-only message in media-only channel test by thirteentrese
+2025-07-31T18:17:37.619Z info: Media-only mode disabled for channel <#1400540368755359755> in guild 1184864945142251530
+2025-07-31T18:17:43.376Z info: Media-only mode enabled for channel <#1400540368755359755> in guild 1184864945142251530
+2025-07-31T18:18:05.139Z info: Connecting to Discord...
+2025-07-31T18:18:05.165Z info: Web server started on port 3000
+2025-07-31T18:18:05.675Z info: Bot logged in as ᴗ•#4543
+2025-07-31T18:18:05.676Z info: Started refreshing application (/) commands.
+2025-07-31T18:18:05.916Z info: Successfully reloaded application (/) commands.
+2025-07-31T18:18:17.542Z info: Media-only mode enabled for channel <#1184882208666832916> in guild 1184864945142251530
+2025-07-31T18:18:40.241Z info: Media-only mode disabled for channel <#1184882208666832916> in guild 1184864945142251530
+2025-07-31T18:19:11.593Z info: Media-only mode enabled for channel <#1400540368755359755> in guild 1184864945142251530
+2025-07-31T18:19:34.613Z info: Media-only mode disabled for channel <#1400540368755359755> in guild 1184864945142251530
+2025-07-31T18:37:29.139Z info: Connecting to Discord...
+2025-07-31T18:37:29.164Z info: Web server started on port 3000
+2025-07-31T18:37:29.616Z info: Bot logged in as ᴗ•#4543
+2025-07-31T18:37:29.617Z info: Started refreshing application (/) commands.
+2025-07-31T18:37:29.931Z info: Successfully reloaded application (/) commands.
+2025-07-31T18:38:47.162Z info: User thirteentrese verified but no specific verified role found in guild KA
+2025-07-31T18:39:22.045Z info: Connecting to Discord...
+2025-07-31T18:39:22.078Z info: Web server started on port 3000
+2025-07-31T18:39:22.634Z info: Bot logged in as ᴗ•#4543
+2025-07-31T18:39:22.634Z info: Started refreshing application (/) commands.
+2025-07-31T18:39:23.039Z info: Successfully reloaded application (/) commands.
+2025-07-31T18:42:34.199Z info: Connecting to Discord...
+2025-07-31T18:42:34.271Z info: Web server started on port 3000
+2025-07-31T18:42:34.710Z info: Bot logged in as ᴗ•#4543
+2025-07-31T18:42:34.710Z info: Started refreshing application (/) commands.
+2025-07-31T18:42:34.981Z info: Successfully reloaded application (/) commands.
+2025-07-31T18:45:29.904Z info: Verified user thirteentrese and added Tambay role in guild KA
+2025-07-31T18:45:41.602Z info: Verified user thirteentrese and added Tambay role in guild KA
+2025-07-31T18:52:10.848Z info: Media-only mode enabled for channel <#1400551612270903296> in guild 1184864945142251530
+2025-07-31T18:52:17.624Z info: Created media thread "₁₃ (July 31, 2025)" in test for thirteentrese
+2025-07-31T18:58:00.830Z info: Connecting to Discord...
+2025-07-31T18:58:00.865Z info: Web server started on port 3000
+2025-07-31T18:58:01.380Z info: Bot logged in as ᴗ•#4543
+2025-07-31T18:58:01.381Z info: Started refreshing application (/) commands.
+2025-07-31T18:58:01.668Z info: Successfully reloaded application (/) commands.
+2025-07-31T18:58:25.120Z info: Connecting to Discord...
+2025-07-31T18:58:25.145Z info: Web server started on port 3000
+2025-07-31T18:58:25.711Z info: Bot logged in as ᴗ•#4543
+2025-07-31T18:58:25.711Z info: Started refreshing application (/) commands.
+2025-07-31T18:58:26.011Z info: Successfully reloaded application (/) commands.
+2025-07-31T19:01:16.965Z info: Verified user rdntrcky and added Tambay role in guild KA
+2025-07-31T19:01:17.351Z info: Sent welcome message for rdntrcky in guild KA
+2025-07-31T19:07:11.176Z info: Connecting to Discord...
+2025-07-31T19:07:11.200Z info: Web server started on port 3000
+2025-07-31T19:07:11.847Z info: Bot logged in as ᴗ•#4543
+2025-07-31T19:07:11.847Z info: Started refreshing application (/) commands.
+2025-07-31T19:07:12.422Z info: Successfully reloaded application (/) commands.
+2025-07-31T19:08:03.572Z info: Test welcome message generated for rdntrcky by thirteentrese
+2025-07-31T19:09:56.672Z info: Connecting to Discord...
+2025-07-31T19:09:56.702Z info: Web server started on port 3000
+2025-07-31T19:09:57.322Z info: Bot logged in as ᴗ•#4543
+2025-07-31T19:09:57.323Z info: Started refreshing application (/) commands.
+2025-07-31T19:09:57.667Z info: Successfully reloaded application (/) commands.
+2025-07-31T19:10:24.627Z info: Test welcome message generated for rdntrcky by thirteentrese
+2025-07-31T19:11:10.983Z info: Connecting to Discord...
+2025-07-31T19:11:11.013Z info: Web server started on port 3000
+2025-07-31T19:11:25.752Z info: Connecting to Discord...
+2025-07-31T19:11:25.775Z info: Web server started on port 3000
+2025-07-31T19:11:26.181Z info: Bot logged in as ᴗ•#4543
+2025-07-31T19:11:26.182Z info: Started refreshing application (/) commands.
+2025-07-31T19:11:26.391Z info: Successfully reloaded application (/) commands.
+2025-07-31T19:11:59.101Z info: Test welcome message generated for rdntrcky by thirteentrese
+2025-07-31T19:13:14.093Z info: Connecting to Discord...
+2025-07-31T19:13:14.121Z info: Web server started on port 3000
+2025-07-31T19:13:15.194Z info: Bot logged in as ᴗ•#4543
+2025-07-31T19:13:15.195Z info: Started refreshing application (/) commands.
+2025-07-31T19:13:15.396Z info: Successfully reloaded application (/) commands.
+2025-07-31T19:13:32.043Z info: Test welcome message generated for rdntrcky by thirteentrese
+2025-07-31T19:14:32.371Z info: Connecting to Discord...
+2025-07-31T19:14:32.399Z info: Web server started on port 3000
+2025-07-31T19:14:48.547Z info: Connecting to Discord...
+2025-07-31T19:14:48.573Z info: Web server started on port 3000
+2025-07-31T19:14:49.112Z info: Bot logged in as ᴗ•#4543
+2025-07-31T19:14:49.113Z info: Started refreshing application (/) commands.
+2025-07-31T19:14:49.315Z info: Successfully reloaded application (/) commands.
+2025-07-31T19:15:14.125Z info: Test welcome message generated for rdntrcky by thirteentrese
+2025-07-31T19:15:22.260Z info: Test welcome message generated for thirteentrese by thirteentrese
+2025-07-31T19:17:33.021Z info: Connecting to Discord...
+2025-07-31T19:17:33.055Z info: Web server started on port 3000
+2025-07-31T19:17:33.542Z info: Bot logged in as ᴗ•#4543
+2025-07-31T19:17:33.542Z info: Started refreshing application (/) commands.
+2025-07-31T19:17:33.815Z info: Successfully reloaded application (/) commands.
+2025-07-31T19:17:49.912Z info: Connecting to Discord...
+2025-07-31T19:17:49.940Z info: Web server started on port 3000
+2025-07-31T19:17:50.750Z info: Bot logged in as ᴗ•#4543
+2025-07-31T19:17:50.751Z info: Started refreshing application (/) commands.
+2025-07-31T19:17:50.952Z info: Successfully reloaded application (/) commands.
+2025-07-31T19:20:22.956Z info: Test welcome message generated for thirteentrese by thirteentrese
+2025-07-31T19:20:27.972Z info: thirteentrese said hello to thirteentrese via button
+2025-07-31T19:22:11.739Z info: Connecting to Discord...
+2025-07-31T19:22:11.786Z info: Web server started on port 3000
+2025-07-31T19:22:12.348Z info: Bot logged in as ᴗ•#4543
+2025-07-31T19:22:12.354Z info: Started refreshing application (/) commands.
+2025-07-31T19:22:12.551Z info: Successfully reloaded application (/) commands.
+2025-07-31T19:22:31.192Z info: Connecting to Discord...
+2025-07-31T19:22:31.216Z info: Web server started on port 3000
+2025-07-31T19:22:31.892Z info: Bot logged in as ᴗ•#4543
+2025-07-31T19:22:31.893Z info: Started refreshing application (/) commands.
+2025-07-31T19:22:32.188Z info: Successfully reloaded application (/) commands.
+2025-07-31T19:22:48.618Z info: Test welcome message generated for rdntrcky by thirteentrese
+2025-07-31T19:24:03.092Z info: Connecting to Discord...
+2025-07-31T19:24:03.116Z info: Web server started on port 3000
+2025-07-31T19:24:03.639Z info: Bot logged in as ᴗ•#4543
+2025-07-31T19:24:03.640Z info: Started refreshing application (/) commands.
+2025-07-31T19:24:03.895Z info: Successfully reloaded application (/) commands.
+2025-07-31T19:31:22.707Z info: Connecting to Discord...
+2025-07-31T19:31:22.746Z info: Web server started on port 3000
+2025-07-31T19:31:23.357Z info: Bot logged in as ᴗ•#4543
+2025-07-31T19:31:23.358Z info: Started refreshing application (/) commands.
+2025-07-31T19:31:23.701Z info: Successfully reloaded application (/) commands.
+2025-07-31T19:33:49.284Z info: Twitch stream monitoring started
+2025-07-31T19:33:49.288Z info: Twitch stream monitoring started
+2025-07-31T19:33:49.289Z info: Connecting to Discord...
+2025-07-31T19:33:49.311Z info: Web server started on port 3000
+2025-07-31T19:33:49.945Z info: Bot logged in as ᴗ•#4543
+2025-07-31T19:33:49.945Z info: Started refreshing application (/) commands.
+2025-07-31T19:33:50.380Z info: Successfully reloaded application (/) commands.
+2025-07-31T19:33:54.811Z info: Twitch stream monitoring started
+2025-07-31T19:33:54.815Z info: Twitch stream monitoring started
+2025-07-31T19:33:54.816Z info: Connecting to Discord...
+2025-07-31T19:33:54.837Z info: Web server started on port 3000
+2025-07-31T19:33:55.291Z info: Bot logged in as ᴗ•#4543
+2025-07-31T19:33:55.291Z info: Started refreshing application (/) commands.
+2025-07-31T19:33:55.626Z info: Successfully reloaded application (/) commands.
+2025-07-31T19:34:16.816Z info: Twitch stream monitoring started
+2025-07-31T19:34:16.822Z info: Twitch stream monitoring started
+2025-07-31T19:34:16.823Z info: Connecting to Discord...
+2025-07-31T19:34:16.852Z info: Web server started on port 3000
+2025-07-31T19:34:17.584Z info: Bot logged in as ᴗ•#4543
+2025-07-31T19:34:17.584Z info: Started refreshing application (/) commands.
+2025-07-31T19:34:50.506Z info: Successfully reloaded application (/) commands.
+2025-07-31T19:34:54.912Z info: Successfully obtained Twitch access token
+2025-07-31T19:34:55.065Z info: Added pokimane to stream monitoring
+2025-07-31T19:34:55.234Z info: Added pokimane to stream monitoring by thirteentrese
+2025-07-31T19:35:17.382Z info: Sent stream notification for tarik
+2025-07-31T19:35:17.574Z info: Test notification sent for tarik by thirteentrese
+2025-07-31T19:36:15.811Z info: Removed pokimane from stream monitoring
+2025-07-31T19:36:16.028Z info: Removed pokimane from stream monitoring by thirteentrese
+2025-07-31T19:37:20.162Z info: Twitch stream monitoring started
+2025-07-31T19:37:20.167Z info: Twitch stream monitoring started
+2025-07-31T19:37:20.167Z info: Connecting to Discord...
+2025-07-31T19:37:20.196Z info: Web server started on port 3000
+2025-07-31T19:37:20.753Z info: Bot logged in as ᴗ•#4543
+2025-07-31T19:37:20.753Z info: Started refreshing application (/) commands.
+2025-07-31T19:37:21.068Z info: Successfully reloaded application (/) commands.
+2025-07-31T19:40:42.102Z info: Twitch stream monitoring started
+2025-07-31T19:40:42.104Z info: Auto stream detection initialized
+2025-07-31T19:40:42.108Z info: Twitch stream monitoring started
+2025-07-31T19:40:42.108Z info: Auto stream detection initialized
+2025-07-31T19:40:42.108Z info: Connecting to Discord...
+2025-07-31T19:40:42.135Z info: Web server started on port 3000
+2025-07-31T19:40:42.745Z info: Bot logged in as ᴗ•#4543
+2025-07-31T19:40:42.746Z info: Started refreshing application (/) commands.
+2025-07-31T19:40:43.026Z info: Successfully reloaded application (/) commands.
+2025-07-31T19:40:47.356Z info: Sent auto stream notification for OwO
+2025-07-31T19:40:47.356Z info: Detected stream start: OwO (owobotplays)
+2025-07-31T19:42:17.738Z info: Twitch stream monitoring started
+2025-07-31T19:42:17.740Z info: Auto stream detection initialized
+2025-07-31T19:42:17.742Z info: Twitch stream monitoring started
+2025-07-31T19:42:17.742Z info: Auto stream detection initialized
+2025-07-31T19:42:17.743Z info: Connecting to Discord...
+2025-07-31T19:42:17.763Z info: Web server started on port 3000
+2025-07-31T19:42:18.382Z info: Bot logged in as ᴗ•#4543
+2025-07-31T19:42:18.383Z info: Started refreshing application (/) commands.
+2025-07-31T19:42:18.749Z info: Successfully reloaded application (/) commands.
+2025-07-31T19:44:20.576Z info: Twitch stream monitoring started
+2025-07-31T19:44:20.578Z info: Auto stream detection initialized
+2025-07-31T19:44:20.581Z info: Twitch stream monitoring started
+2025-07-31T19:44:20.581Z info: Auto stream detection initialized
+2025-07-31T19:44:20.581Z info: Connecting to Discord...
+2025-07-31T19:44:20.603Z info: Web server started on port 3000
+2025-07-31T19:44:21.050Z info: Bot logged in as ᴗ•#4543
+2025-07-31T19:44:21.050Z info: Started refreshing application (/) commands.
+2025-07-31T19:44:21.332Z info: Successfully reloaded application (/) commands.
+2025-07-31T19:54:36.144Z info: Twitch stream monitoring started
+2025-07-31T19:54:36.145Z info: Auto stream detection initialized
+2025-07-31T19:54:36.148Z info: Twitch stream monitoring started
+2025-07-31T19:54:36.148Z info: Auto stream detection initialized
+2025-07-31T19:54:36.148Z info: Connecting to Discord...
+2025-07-31T19:54:36.171Z info: Web server started on port 3000
+2025-07-31T19:54:36.768Z info: Bot logged in as ᴗ•#4543
+2025-07-31T19:54:36.768Z info: Started refreshing application (/) commands.
+2025-07-31T19:54:37.360Z info: Successfully reloaded application (/) commands.
+2025-07-31T19:57:32.952Z info: Created "streaming now" role
+2025-07-31T19:57:33.252Z info: Added streaming role to ₁₃
+2025-07-31T19:57:33.559Z info: Sent auto stream notification for ₁₃
+2025-07-31T19:57:33.559Z info: Detected stream start: ₁₃ (thirteentrese)
+2025-07-31T19:58:33.030Z info: Removed streaming role from ₁₃
+2025-07-31T19:58:33.031Z info: Detected stream end: ₁₃ (thirteentrese)
+2025-07-31T19:59:45.240Z info: Added streaming role to ₁₃
+2025-07-31T19:59:45.483Z info: Sent auto stream notification for ₁₃
+2025-07-31T19:59:45.483Z info: Detected stream start: ₁₃ (thirteentrese)
+2025-07-31T20:00:44.009Z info: Twitch stream monitoring started
+2025-07-31T20:00:44.011Z info: Auto stream detection initialized
+2025-07-31T20:00:44.013Z info: Twitch stream monitoring started
+2025-07-31T20:00:44.014Z info: Auto stream detection initialized
+2025-07-31T20:00:44.014Z info: Connecting to Discord...
+2025-07-31T20:00:44.036Z info: Web server started on port 3000
+2025-07-31T20:00:44.724Z info: Bot logged in as ᴗ•#4543
+2025-07-31T20:00:44.724Z info: Started refreshing application (/) commands.
+2025-07-31T20:00:45.240Z info: Successfully reloaded application (/) commands.
+2025-07-31T20:00:49.015Z info: ₁₃ (730631022772748339) already has streaming role
+2025-07-31T20:00:49.413Z info: Sent auto stream notification for ₁₃
+2025-07-31T20:00:49.413Z info: Detected stream start: ₁₃ (thirteentrese) - User ID: 730631022772748339
+2025-07-31T20:01:11.171Z info: Twitch stream monitoring started
+2025-07-31T20:01:11.174Z info: Auto stream detection initialized
+2025-07-31T20:01:11.176Z info: Twitch stream monitoring started
+2025-07-31T20:01:11.177Z info: Auto stream detection initialized
+2025-07-31T20:01:11.177Z info: Connecting to Discord...
+2025-07-31T20:01:11.202Z info: Web server started on port 3000
+2025-07-31T20:01:11.686Z info: Bot logged in as ᴗ•#4543
+2025-07-31T20:01:11.686Z info: Started refreshing application (/) commands.
+2025-07-31T20:01:11.966Z info: Successfully reloaded application (/) commands.
+2025-07-31T20:01:16.178Z info: ₁₃ (730631022772748339) already has streaming role
+2025-07-31T20:01:16.441Z info: Sent auto stream notification for ₁₃
+2025-07-31T20:01:16.441Z info: Detected stream start: ₁₃ (thirteentrese) - User ID: 730631022772748339
+2025-07-31T20:01:28.575Z info: Twitch stream monitoring started
+2025-07-31T20:01:28.577Z info: Auto stream detection initialized
+2025-07-31T20:01:28.579Z info: Twitch stream monitoring started
+2025-07-31T20:01:28.580Z info: Auto stream detection initialized
+2025-07-31T20:01:28.580Z info: Connecting to Discord...
+2025-07-31T20:01:28.600Z info: Web server started on port 3000
+2025-07-31T20:01:29.333Z info: Bot logged in as ᴗ•#4543
+2025-07-31T20:01:29.333Z info: Started refreshing application (/) commands.
+2025-07-31T20:01:29.665Z info: Successfully reloaded application (/) commands.
+2025-07-31T20:01:33.581Z info: ₁₃ (730631022772748339) already has streaming role
+2025-07-31T20:01:34.283Z info: Sent auto stream notification for ₁₃
+2025-07-31T20:01:34.283Z info: Detected stream start: ₁₃ (thirteentrese) - User ID: 730631022772748339
+2025-07-31T20:03:53.166Z warn: Streaming role not found when trying to remove
+2025-07-31T20:03:53.166Z info: Detected stream end: ₁₃ (thirteentrese) - User ID: 730631022772748339
+2025-07-31T20:03:59.400Z info: Created "streaming now" role
+2025-07-31T20:03:59.582Z info: Added streaming role to ₁₃ (730631022772748339)
+2025-07-31T20:03:59.789Z info: Sent auto stream notification for ₁₃
+2025-07-31T20:03:59.789Z info: Detected stream start: ₁₃ (thirteentrese) - User ID: 730631022772748339
+2025-07-31T20:04:22.297Z info: Removed streaming role from ₁₃ (730631022772748339)
+2025-07-31T20:04:22.297Z info: Detected stream end: ₁₃ (thirteentrese) - User ID: 730631022772748339
+2025-07-31T20:05:56.085Z info: Twitch stream monitoring started
+2025-07-31T20:05:56.088Z info: Auto stream detection initialized
+2025-07-31T20:05:56.092Z info: Twitch stream monitoring started
+2025-07-31T20:05:56.093Z info: Auto stream detection initialized
+2025-07-31T20:05:56.093Z info: Connecting to Discord...
+2025-07-31T20:05:56.132Z info: Web server started on port 3000
+2025-07-31T20:05:56.784Z info: Bot logged in as ᴗ•#4543
+2025-07-31T20:05:56.785Z info: Started refreshing application (/) commands.
+2025-07-31T20:05:57.006Z info: Successfully reloaded application (/) commands.
+2025-07-31T20:06:21.581Z info: Twitch stream monitoring started
+2025-07-31T20:06:21.583Z info: Auto stream detection initialized
+2025-07-31T20:06:21.586Z info: Twitch stream monitoring started
+2025-07-31T20:06:21.586Z info: Auto stream detection initialized
+2025-07-31T20:06:21.587Z info: Connecting to Discord...
+2025-07-31T20:06:21.613Z info: Web server started on port 3000
+2025-07-31T20:06:22.233Z info: Bot logged in as ᴗ•#4543
+2025-07-31T20:06:22.234Z info: Started refreshing application (/) commands.
+2025-07-31T20:06:22.793Z info: Successfully reloaded application (/) commands.
+2025-07-31T20:08:32.085Z info: Twitch stream monitoring started
+2025-07-31T20:08:32.087Z info: Auto stream detection initialized
+2025-07-31T20:08:32.090Z info: Twitch stream monitoring started
+2025-07-31T20:08:32.090Z info: Auto stream detection initialized
+2025-07-31T20:08:32.090Z info: Connecting to Discord...
+2025-07-31T20:08:32.113Z info: Web server started on port 3000
+2025-07-31T20:08:32.598Z info: Bot logged in as ᴗ•#4543
+2025-07-31T20:08:32.598Z info: Started refreshing application (/) commands.
+2025-07-31T20:08:33.105Z info: Successfully reloaded application (/) commands.
+2025-07-31T20:09:56.262Z info: Added streaming role to ₁₃ (730631022772748339)
+2025-07-31T20:09:56.700Z info: Sent auto stream notification for ₁₃
+2025-07-31T20:09:56.701Z info: Detected stream start: ₁₃ (thirteentrese) - User ID: 730631022772748339
+2025-07-31T20:09:59.338Z info: Removed streaming role from ₁₃ (730631022772748339)
+2025-07-31T20:09:59.517Z info: Detected stream end: ₁₃ (thirteentrese) - User ID: 730631022772748339
+2025-07-31T20:10:06.191Z info: Added streaming role to ₁₃ (730631022772748339)
+2025-07-31T20:10:06.702Z info: Sent auto stream notification for ₁₃
+2025-07-31T20:10:06.703Z info: Detected stream start: ₁₃ (thirteentrese) - User ID: 730631022772748339
+2025-07-31T20:10:34.915Z info: Removed streaming role from ₁₃ (730631022772748339)
+2025-07-31T20:10:35.125Z info: Detected stream end: ₁₃ (thirteentrese) - User ID: 730631022772748339
+2025-07-31T20:10:45.475Z info: Added streaming role to ₁₃ (730631022772748339)
+2025-07-31T20:10:45.856Z info: Sent auto stream notification for ₁₃
+2025-07-31T20:10:45.856Z info: Detected stream start: ₁₃ (thirteentrese) - User ID: 730631022772748339
+2025-07-31T20:11:39.741Z info: Removed streaming role from ₁₃ (730631022772748339)
+2025-07-31T20:11:39.912Z info: Detected stream end: ₁₃ (thirteentrese) - User ID: 730631022772748339
+2025-07-31T20:12:56.217Z info: Twitch stream monitoring started
+2025-07-31T20:12:56.219Z info: Auto stream detection initialized
+2025-07-31T20:12:56.221Z info: Twitch stream monitoring started
+2025-07-31T20:12:56.222Z info: Auto stream detection initialized
+2025-07-31T20:12:56.222Z info: Connecting to Discord...
+2025-07-31T20:12:56.248Z info: Web server started on port 3000
+2025-07-31T20:12:56.696Z info: Bot logged in as ᴗ•#4543
+2025-07-31T20:12:56.696Z info: Started refreshing application (/) commands.
+2025-07-31T20:12:56.915Z info: Successfully reloaded application (/) commands.
+2025-07-31T20:13:17.059Z info: Twitch stream monitoring started
+2025-07-31T20:13:17.062Z info: Auto stream detection initialized
+2025-07-31T20:13:17.065Z info: Twitch stream monitoring started
+2025-07-31T20:13:17.065Z info: Auto stream detection initialized
+2025-07-31T20:13:17.065Z info: Connecting to Discord...
+2025-07-31T20:13:17.090Z info: Web server started on port 3000
+2025-07-31T20:13:17.578Z info: Bot logged in as ᴗ•#4543
+2025-07-31T20:13:17.578Z info: Started refreshing application (/) commands.
+2025-07-31T20:13:17.790Z info: Successfully reloaded application (/) commands.
+2025-07-31T20:15:05.880Z info: Twitch stream monitoring started
+2025-07-31T20:15:05.883Z info: Auto stream detection initialized
+2025-07-31T20:15:05.885Z info: Twitch stream monitoring started
+2025-07-31T20:15:05.886Z info: Auto stream detection initialized
+2025-07-31T20:15:05.886Z info: Connecting to Discord...
+2025-07-31T20:15:05.911Z info: Web server started on port 3000
+2025-07-31T20:15:06.807Z info: Bot logged in as ᴗ•#4543
+2025-07-31T20:15:06.808Z info: Started refreshing application (/) commands.
+2025-07-31T20:15:07.107Z info: Successfully reloaded application (/) commands.
+2025-07-31T20:21:23.377Z info: Added streaming role to ₁₃ (730631022772748339)
+2025-07-31T20:21:23.786Z info: Sent auto stream notification for ₁₃
+2025-07-31T20:21:23.786Z info: Sent stream notification for ₁₃ (thirteentrese) - User ID: 730631022772748339
+2025-07-31T20:21:23.786Z info: Detected stream start: ₁₃ (thirteentrese) - User ID: 730631022772748339
+2025-07-31T20:22:02.940Z info: Removed streaming role from ₁₃ (730631022772748339)
+2025-07-31T20:22:03.131Z info: Detected stream end: ₁₃ (thirteentrese) - User ID: 730631022772748339
+2025-07-31T20:22:09.007Z info: Added streaming role to ₁₃ (730631022772748339)
+2025-07-31T20:22:09.508Z info: Sent auto stream notification for ₁₃
+2025-07-31T20:22:09.509Z info: Sent stream notification for ₁₃ (thirteentrese) - User ID: 730631022772748339
+2025-07-31T20:22:09.509Z info: Detected stream start: ₁₃ (thirteentrese) - User ID: 730631022772748339
+2025-07-31T20:22:36.429Z info: Removed streaming role from ₁₃ (730631022772748339)
+2025-07-31T20:22:36.608Z info: Detected stream end: ₁₃ (thirteentrese) - User ID: 730631022772748339
+2025-07-31T20:22:43.975Z info: Added streaming role to ₁₃ (730631022772748339)
+2025-07-31T20:22:44.379Z info: Sent auto stream notification for ₁₃
+2025-07-31T20:22:44.380Z info: Sent stream notification for ₁₃ (thirteentrese) - User ID: 730631022772748339
+2025-07-31T20:22:44.380Z info: Detected stream start: ₁₃ (thirteentrese) - User ID: 730631022772748339
+2025-07-31T20:22:52.297Z info: Removed streaming role from ₁₃ (730631022772748339)
+2025-07-31T20:22:52.477Z info: Detected stream end: ₁₃ (thirteentrese) - User ID: 730631022772748339
+2025-07-31T20:27:00.884Z info: Connecting to Discord...
+2025-07-31T20:27:00.920Z info: Web server started on port 3000
+2025-07-31T20:27:01.456Z info: Bot logged in as ᴗ•#4543
+2025-07-31T20:27:01.457Z info: Started refreshing application (/) commands.
+2025-07-31T20:27:01.719Z info: Successfully reloaded application (/) commands.
+2025-07-31T20:31:41.439Z info: Connecting to Discord...
+2025-07-31T20:31:41.470Z info: Web server started on port 3000
+2025-07-31T20:31:43.435Z info: Bot logged in as ᴗ•#4543
+2025-07-31T20:31:43.435Z info: Started refreshing application (/) commands.
+2025-07-31T20:31:43.719Z info: Successfully reloaded application (/) commands.
+2025-07-31T20:33:28.185Z info: Media-only mode enabled for channel <#1184882208666832916> in guild 1184864945142251530
+2025-07-31T20:33:46.842Z info: Media-only mode disabled for channel <#1184882208666832916> in guild 1184864945142251530
+2025-07-31T20:34:16.351Z info: Ticket #1 created by thirteentrese in KA
+2025-07-31T20:34:24.698Z info: Ticket ticket-1-thirteentrese logged to archived-tickets channel
+2025-07-31T20:34:35.268Z info: Ticket channel 1400577325309104270 deleted by thirteentrese
+2025-07-31T20:35:03.129Z info: Ticket #2 created by thirteentrese in KA
+2025-07-31T20:35:10.184Z info: Ticket ticket-2-thirteentrese logged to archived-tickets channel
+2025-07-31T20:35:20.702Z info: Ticket channel 1400577521317314741 deleted by thirteentrese
+2025-07-31T22:14:43.873Z info: Streaming role detection initialized (no notifications)
+2025-07-31T22:14:43.880Z info: Streaming role detection initialized (no notifications)
+2025-07-31T22:14:43.880Z info: Connecting to Discord...
+2025-07-31T22:14:43.915Z info: Web server started on port 3000
+2025-07-31T22:14:44.480Z info: Bot logged in as ᴗ•#4543
+2025-07-31T22:14:44.480Z info: Started refreshing application (/) commands.
+2025-07-31T22:14:44.748Z info: Successfully reloaded application (/) commands.
+2025-07-31T22:15:10.320Z error: Error in streaming role detection: ActivityType is not defined
+2025-07-31T22:16:24.893Z error: Error in streaming role detection: ActivityType is not defined
+2025-07-31T22:16:43.328Z error: Error in streaming role detection: ActivityType is not defined
+2025-07-31T22:16:49.787Z error: Error in streaming role detection: ActivityType is not defined
+2025-07-31T22:16:49.963Z error: Error in streaming role detection: ActivityType is not defined
+2025-07-31T22:17:18.569Z info: Streaming role detection initialized (no notifications)
+2025-07-31T22:17:18.573Z info: Streaming role detection initialized (no notifications)
+2025-07-31T22:17:18.573Z info: Connecting to Discord...
+2025-07-31T22:17:18.598Z info: Web server started on port 3000
+2025-07-31T22:17:20.699Z info: Bot logged in as ᴗ•#4543
+2025-07-31T22:17:20.700Z info: Started refreshing application (/) commands.
+2025-07-31T22:17:21.082Z info: Successfully reloaded application (/) commands.
+2025-07-31T22:17:45.494Z info: Removed streaming role from ₁₃ (730631022772748339)
+2025-07-31T22:17:51.536Z info: Added streaming role to ₁₃ (730631022772748339)
+2025-07-31T22:18:28.278Z info: Removed streaming role from ₁₃ (730631022772748339)
+2025-07-31T22:19:33.390Z info: Added streaming role to ₁₃ (730631022772748339)
+2025-07-31T22:20:06.079Z info: Removed streaming role from ₁₃ (730631022772748339)
+2025-07-31T22:24:34.090Z info: Streaming role detection initialized (no notifications)
+2025-07-31T22:24:34.094Z info: Streaming role detection initialized (no notifications)
+2025-07-31T22:24:34.094Z info: Connecting to Discord...
+2025-07-31T22:24:34.114Z info: Web server started on port 3000
+2025-07-31T22:24:34.837Z info: Bot logged in as ᴗ•#4543
+2025-07-31T22:24:34.837Z info: Started refreshing application (/) commands.
+2025-07-31T22:24:35.034Z info: Successfully reloaded application (/) commands.
+2025-07-31T22:27:46.959Z info: Streaming role detection initialized (no notifications)
+2025-07-31T22:27:46.961Z info: Join-to-create voice channel system initialized
+2025-07-31T22:27:46.964Z info: Streaming role detection initialized (no notifications)
+2025-07-31T22:27:46.964Z info: Join-to-create voice channel system initialized
+2025-07-31T22:27:46.965Z info: Connecting to Discord...
+2025-07-31T22:27:46.986Z info: Web server started on port 3000
+2025-07-31T22:27:47.528Z info: Bot logged in as ᴗ•#4543
+2025-07-31T22:27:47.528Z info: Started refreshing application (/) commands.
+2025-07-31T22:27:47.779Z info: Successfully reloaded application (/) commands.
+2025-07-31T22:28:25.497Z info: Streaming role detection initialized (no notifications)
+2025-07-31T22:28:25.500Z info: Join-to-create voice channel system initialized
+2025-07-31T22:28:25.503Z info: Streaming role detection initialized (no notifications)
+2025-07-31T22:28:25.504Z info: Join-to-create voice channel system initialized
+2025-07-31T22:28:25.504Z info: Connecting to Discord...
+2025-07-31T22:28:25.532Z info: Web server started on port 3000
+2025-07-31T22:28:25.979Z info: Bot logged in as ᴗ•#4543
+2025-07-31T22:28:25.980Z info: Started refreshing application (/) commands.
+2025-07-31T22:28:26.263Z info: Successfully reloaded application (/) commands.
+2025-07-31T22:28:59.425Z info: Created private voice channel "₁₃'s Channel" (1400606194925568175) for ₁₃
+2025-07-31T22:29:11.895Z info: Cleaned up empty voice channel 1400606194925568175
+2025-07-31T22:29:13.736Z info: Created public voice channel "₁₃'s Channel" (1400606256036712499) for ₁₃
+2025-07-31T22:29:23.458Z info: Cleaned up empty voice channel 1400606256036712499
+2025-07-31T22:30:32.053Z info: Created private voice channel "₁₃'s Channel" (1400606584438128710) for ₁₃
+2025-07-31T22:33:02.892Z info: Cleaned up empty voice channel 1400606584438128710
+2025-07-31T22:33:04.999Z info: Created public voice channel "₁₃'s Channel" (1400607224262430796) for ₁₃
+2025-07-31T22:33:16.834Z info: Cleaned up empty voice channel 1400607224262430796
+2025-07-31T22:35:26.312Z info: Streaming role detection initialized (no notifications)
+2025-07-31T22:35:26.314Z info: Join-to-create voice channel system initialized
+2025-07-31T22:35:26.317Z info: Streaming role detection initialized (no notifications)
+2025-07-31T22:35:26.317Z info: Join-to-create voice channel system initialized
+2025-07-31T22:35:26.317Z info: Connecting to Discord...
+2025-07-31T22:35:26.338Z info: Web server started on port 3000
+2025-07-31T22:35:26.961Z info: Bot logged in as ᴗ•#4543
+2025-07-31T22:35:26.962Z info: Started refreshing application (/) commands.
+2025-07-31T22:35:27.224Z info: Successfully reloaded application (/) commands.
+2025-07-31T22:36:47.925Z info: Created private voice channel "shern's Channel" (1400608160447991921) for shern
+2025-07-31T22:37:08.517Z info: Cleaned up empty voice channel 1400608160447991921
+2025-07-31T22:37:11.229Z info: Created public voice channel "₁₃'s Channel" (1400608258233733160) for ₁₃
+2025-07-31T22:37:18.762Z info: Cleaned up empty voice channel 1400608258233733160
+2025-07-31T22:37:19.648Z info: Denied JTC access to ₁₃ - missing Tambay role
+2025-07-31T22:37:52.847Z info: Created private voice channel "₁₃'s Channel" (1400608432670638170) for ₁₃
+2025-07-31T22:38:07.041Z info: Created private voice channel "shern's Channel" (1400608492078895106) for shern
+2025-07-31T22:41:13.778Z info: Cleaned up empty voice channel 1400608432670638170
+2025-07-31T22:41:15.149Z info: Cleaned up empty voice channel 1400608492078895106
+2025-07-31T22:41:30.268Z info: Created public voice channel "₁₃'s Channel" (1400609344659132490) for ₁₃
+2025-07-31T22:41:37.277Z info: Cleaned up empty voice channel 1400609344659132490
+2025-07-31T22:42:06.316Z info: Created private voice channel "₁₃'s Channel" (1400609496652452042) for ₁₃
+2025-07-31T22:42:15.326Z info: Cleaned up empty voice channel 1400609496652452042
+2025-07-31T22:42:17.083Z info: Created private voice channel "₁₃'s Channel" (1400609541237899385) for ₁₃
+2025-07-31T22:42:44.144Z info: Cleaned up empty voice channel 1400609541237899385
+2025-07-31T22:45:24.219Z info: Streaming role detection initialized (no notifications)
+2025-07-31T22:45:24.221Z info: Join-to-create voice channel system initialized
+2025-07-31T22:45:24.223Z info: Streaming role detection initialized (no notifications)
+2025-07-31T22:45:24.224Z info: Join-to-create voice channel system initialized
+2025-07-31T22:45:24.224Z info: Connecting to Discord...
+2025-07-31T22:45:24.248Z info: Web server started on port 3000
+2025-07-31T22:45:24.808Z info: Bot logged in as ᴗ•#4543
+2025-07-31T22:45:24.808Z info: Started refreshing application (/) commands.
+2025-07-31T22:45:25.050Z info: Successfully reloaded application (/) commands.
+2025-07-31T22:46:30.856Z info: Created private voice channel "shern's Channel" (1400610602925166703) for shern
+2025-07-31T22:47:43.746Z info: Streaming role detection initialized (no notifications)
+2025-07-31T22:47:43.750Z info: Join-to-create voice channel system initialized
+2025-07-31T22:47:43.755Z info: Streaming role detection initialized (no notifications)
+2025-07-31T22:47:43.756Z info: Join-to-create voice channel system initialized
+2025-07-31T22:47:43.756Z info: Connecting to Discord...
+2025-07-31T22:47:43.800Z info: Web server started on port 3000
+2025-07-31T22:47:44.416Z info: Bot logged in as ᴗ•#4543
+2025-07-31T22:47:44.417Z info: Started refreshing application (/) commands.
+2025-07-31T22:47:44.600Z info: Successfully reloaded application (/) commands.
+2025-07-31T22:48:53.706Z info: Created public voice channel "shern's Channel" (1400611204900323328) for shern
+2025-07-31T22:48:54.343Z info: Created public voice channel "shern's Channel" (1400611207601324073) for shern
+2025-07-31T22:48:59.501Z info: Cleaned up empty voice channel 1400611204900323328
+2025-07-31T22:49:00.457Z info: Cleaned up empty voice channel 1400611207601324073
+2025-07-31T22:49:02.123Z info: Created private voice channel "shern's Channel" (1400611239327174797) for shern
+2025-07-31T22:49:03.628Z info: Created private voice channel "shern's Channel" (1400611243630399508) for shern
+2025-07-31T22:49:08.922Z info: Cleaned up empty voice channel 1400611239327174797
+2025-07-31T22:49:57.687Z info: Streaming role detection initialized (no notifications)
+2025-07-31T22:49:57.690Z info: Join-to-create voice channel system initialized
+2025-07-31T22:49:57.694Z info: Streaming role detection initialized (no notifications)
+2025-07-31T22:49:57.694Z info: Join-to-create voice channel system initialized
+2025-07-31T22:49:57.695Z info: Connecting to Discord...
+2025-07-31T22:49:57.734Z info: Web server started on port 3000
+2025-07-31T22:49:58.225Z info: Bot logged in as ᴗ•#4543
+2025-07-31T22:49:58.226Z info: Started refreshing application (/) commands.
+2025-07-31T22:49:58.481Z info: Successfully reloaded application (/) commands.
+2025-07-31T22:50:24.652Z info: Streaming role detection initialized (no notifications)
+2025-07-31T22:50:24.654Z info: Join-to-create voice channel system initialized
+2025-07-31T22:50:24.657Z info: Streaming role detection initialized (no notifications)
+2025-07-31T22:50:24.657Z info: Join-to-create voice channel system initialized
+2025-07-31T22:50:24.657Z info: Connecting to Discord...
+2025-07-31T22:50:24.682Z info: Web server started on port 3000
+2025-07-31T22:50:25.180Z info: Bot logged in as ᴗ•#4543
+2025-07-31T22:50:25.181Z info: Started refreshing application (/) commands.
+2025-07-31T22:50:25.663Z info: Successfully registered guild-specific commands for KA server.
+2025-07-31T22:50:25.664Z info: Successfully reloaded application (/) commands.
+2025-07-31T22:51:19.611Z info: Created public voice channel "shern's Channel" (1400611816828174496) for shern
+2025-07-31T22:51:20.113Z info: Created public voice channel "shern's Channel" (1400611818753491066) for shern
+2025-07-31T22:51:25.355Z info: Cleaned up empty voice channel 1400611816828174496
+2025-07-31T22:54:18.311Z info: Streaming role detection initialized (no notifications)
+2025-07-31T22:54:18.313Z info: Join-to-create voice channel system initialized
+2025-07-31T22:54:18.317Z info: Streaming role detection initialized (no notifications)
+2025-07-31T22:54:18.317Z info: Join-to-create voice channel system initialized
+2025-07-31T22:54:18.317Z info: Connecting to Discord...
+2025-07-31T22:54:18.342Z info: Web server started on port 3000
+2025-07-31T22:54:18.858Z info: Bot logged in as ᴗ•#4543
+2025-07-31T22:54:18.858Z info: Started refreshing application (/) commands.
+2025-07-31T22:54:19.411Z info: Successfully registered guild-specific commands for KA server.
+2025-07-31T22:54:19.412Z info: Successfully reloaded application (/) commands.
+2025-07-31T22:55:21.591Z info: Created private voice channel "shern's Channel" (1400612829395947612) for shern
+2025-07-31T22:56:51.610Z info: Streaming role detection initialized (no notifications)
+2025-07-31T22:56:51.613Z info: Join-to-create voice channel system initialized
+2025-07-31T22:56:51.617Z info: Streaming role detection initialized (no notifications)
+2025-07-31T22:56:51.617Z info: Join-to-create voice channel system initialized
+2025-07-31T22:56:51.617Z info: Connecting to Discord...
+2025-07-31T22:56:51.648Z info: Web server started on port 3000
+2025-07-31T22:56:52.192Z info: Bot logged in as ᴗ•#4543
+2025-07-31T22:56:52.192Z info: Started refreshing application (/) commands.
+2025-07-31T22:56:52.901Z info: Successfully registered guild-specific commands for KA server.
+2025-07-31T22:56:52.902Z info: Successfully reloaded application (/) commands.
+2025-07-31T22:57:25.275Z info: Created private voice channel "shern's Channel" (1400613348999041158) for shern
+2025-07-31T22:57:25.706Z info: Created private voice channel "shern's Channel" (1400613351217696858) for shern
+2025-07-31T22:57:30.638Z info: Cleaned up empty voice channel 1400613348999041158
+2025-07-31T22:59:15.770Z info: shern invited 1 members to VC shern's Channel: winter
+2025-07-31T23:00:49.620Z info: Created private voice channel "₁₃'s Channel" (1400614206893719752) for ₁₃
+2025-07-31T23:00:59.388Z info: ₁₃ invited 1 members to VC ₁₃'s Channel: shern
+2025-07-31T23:03:42.584Z info: Cleaned up empty voice channel 1400613351217696858
+2025-07-31T23:03:57.712Z info: Cleaned up empty voice channel 1400614206893719752
+2025-07-31T23:05:04.517Z info: Streaming role detection initialized (no notifications)
+2025-07-31T23:05:04.520Z info: Join-to-create voice channel system initialized
+2025-07-31T23:05:04.524Z info: Streaming role detection initialized (no notifications)
+2025-07-31T23:05:04.525Z info: Join-to-create voice channel system initialized
+2025-07-31T23:05:04.525Z info: Connecting to Discord...
+2025-07-31T23:05:04.561Z info: Web server started on port 3000
+2025-07-31T23:05:05.130Z info: Bot logged in as ᴗ•#4543
+2025-07-31T23:05:05.130Z info: Started refreshing application (/) commands.
+2025-07-31T23:05:05.640Z info: Successfully registered guild-specific commands for KA server.
+2025-07-31T23:05:05.641Z info: Successfully reloaded application (/) commands.
+2025-08-01T00:19:33.859Z info: Created private voice channel "shern's Channel" (1400634021133942885) for shern
+2025-08-01T00:20:09.865Z info: Cleaned up empty voice channel 1400634021133942885
+2025-08-01T00:22:46.831Z info: Created private voice channel "shern's Channel" (1400634827853791263) for shern
+2025-08-01T00:23:10.087Z info: Cleaned up empty voice channel 1400634827853791263
+2025-08-01T00:34:11.831Z info: Created private voice channel "shern's Channel" (1400637703267029112) for shern
+2025-08-01T00:36:49.314Z info: Created public voice channel "shern's Channel" (1400638365644357742) for shern
+2025-08-01T00:36:54.510Z info: Cleaned up empty voice channel 1400637703267029112
+2025-08-01T00:49:49.483Z info: Streaming role detection initialized (no notifications)
+2025-08-01T00:49:49.486Z info: Join-to-create voice channel system initialized
+2025-08-01T00:49:49.489Z info: Streaming role detection initialized (no notifications)
+2025-08-01T00:49:49.490Z info: Join-to-create voice channel system initialized
+2025-08-01T00:49:49.490Z info: Connecting to Discord...
+2025-08-01T00:49:49.518Z info: Web server started on port 3000
+2025-08-01T00:49:49.978Z info: Bot logged in as ᴗ•#4543
+2025-08-01T00:49:49.980Z info: Started refreshing application (/) commands.
+2025-08-01T00:49:50.552Z info: Successfully registered guild-specific commands for KA server.
+2025-08-01T00:49:50.552Z info: Successfully reloaded application (/) commands.
+2025-08-01T00:51:12.875Z info: Granted move permissions to shern for private VC shern's Channel
+2025-08-01T00:51:12.875Z info: Created private voice channel "shern's Channel" (1400641984648970292) for shern
+2025-08-01T00:59:36.476Z info: Streaming role detection initialized (no notifications)
+2025-08-01T00:59:36.478Z info: Join-to-create voice channel system initialized
+2025-08-01T00:59:36.481Z info: Streaming role detection initialized (no notifications)
+2025-08-01T00:59:36.481Z info: Join-to-create voice channel system initialized
+2025-08-01T00:59:36.481Z info: Connecting to Discord...
+2025-08-01T00:59:36.505Z info: Web server started on port 3000
+2025-08-01T00:59:36.971Z info: Bot logged in as ᴗ•#4543
+2025-08-01T00:59:36.972Z info: Started refreshing application (/) commands.
+2025-08-01T00:59:37.436Z info: Successfully registered guild-specific commands for KA server.
+2025-08-01T00:59:37.437Z info: Successfully reloaded application (/) commands.
+2025-08-01T01:00:30.847Z info: Granted move permissions to shern and Tambayan role for private VC shern's Channel
+2025-08-01T01:00:30.848Z info: Created private voice channel "shern's Channel" (1400644324060041306) for shern
+2025-08-01T01:06:35.888Z info: Streaming role detection initialized (no notifications)
+2025-08-01T01:06:35.890Z info: Join-to-create voice channel system initialized
+2025-08-01T01:06:35.893Z info: Streaming role detection initialized (no notifications)
+2025-08-01T01:06:35.894Z info: Join-to-create voice channel system initialized
+2025-08-01T01:06:35.894Z info: Connecting to Discord...
+2025-08-01T01:06:35.919Z info: Web server started on port 3000
+2025-08-01T01:06:36.383Z info: Bot logged in as ᴗ•#4543
+2025-08-01T01:06:36.383Z info: Started refreshing application (/) commands.
+2025-08-01T01:06:36.893Z info: Successfully registered guild-specific commands for KA server.
+2025-08-01T01:06:36.893Z info: Successfully reloaded application (/) commands.
+2025-08-01T01:07:29.002Z info: Granted move permissions to shern and Tambayan role for private VC shern's Channel
+2025-08-01T01:07:29.003Z info: Created private voice channel "shern's Channel" (1400646080852660265) for shern
+2025-08-01T01:07:58.743Z info: Cleaned up empty voice channel 1400646080852660265
+2025-08-01T01:09:57.218Z info: Streaming role detection initialized (no notifications)
+2025-08-01T01:09:57.220Z info: Join-to-create voice channel system initialized
+2025-08-01T01:09:57.222Z info: Streaming role detection initialized (no notifications)
+2025-08-01T01:09:57.223Z info: Join-to-create voice channel system initialized
+2025-08-01T01:09:57.223Z info: Connecting to Discord...
+2025-08-01T01:09:57.245Z info: Web server started on port 3000
+2025-08-01T01:09:57.671Z info: Bot logged in as ᴗ•#4543
+2025-08-01T01:09:57.672Z info: Started refreshing application (/) commands.
+2025-08-01T01:09:58.310Z info: Successfully registered guild-specific commands for KA server.
+2025-08-01T01:09:58.311Z info: Successfully reloaded application (/) commands.
+2025-08-01T01:10:29.707Z info: Granted move permissions to shern and Tambayan role for private VC shern's Channel
+2025-08-01T01:10:29.708Z info: Created private voice channel "shern's Channel" (1400646831620358297) for shern
+2025-08-01T01:10:45.331Z info: Cleaned up empty voice channel 1400646831620358297
+2025-08-01T01:28:50.943Z info: Streaming role detection initialized (no notifications)
+2025-08-01T01:28:50.945Z info: Join-to-create voice channel system initialized
+2025-08-01T01:28:50.948Z info: Streaming role detection initialized (no notifications)
+2025-08-01T01:28:50.949Z info: Join-to-create voice channel system initialized
+2025-08-01T01:28:50.949Z info: Connecting to Discord...
+2025-08-01T01:28:50.973Z info: Web server started on port 3000
+2025-08-01T01:28:51.739Z info: Bot logged in as ᴗ•#4543
+2025-08-01T01:28:51.739Z info: Started refreshing application (/) commands.
+2025-08-01T01:28:52.255Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T01:28:52.256Z info: Successfully reloaded application (/) commands.
+2025-08-01T01:29:19.104Z info: Streaming role detection initialized (no notifications)
+2025-08-01T01:29:19.106Z info: Join-to-create voice channel system initialized
+2025-08-01T01:29:19.109Z info: Streaming role detection initialized (no notifications)
+2025-08-01T01:29:19.109Z info: Join-to-create voice channel system initialized
+2025-08-01T01:29:19.109Z info: Connecting to Discord...
+2025-08-01T01:29:19.132Z info: Web server started on port 3000
+2025-08-01T01:29:19.656Z info: Bot logged in as ᴗ•#4543
+2025-08-01T01:29:19.656Z info: Started refreshing application (/) commands.
+2025-08-01T01:29:20.063Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T01:29:20.063Z info: Successfully reloaded application (/) commands.
+2025-08-01T01:45:55.547Z info: Media-only mode enabled for channel <#1397724955411615754> in guild 1184864945142251530
+2025-08-01T01:46:21.690Z info: Deleted text-only message in media-only channel ︱moments by rdntrcky
+2025-08-01T02:17:05.801Z info: Streaming role detection initialized (no notifications)
+2025-08-01T02:17:05.803Z info: Join-to-create voice channel system initialized
+2025-08-01T02:17:05.806Z info: Streaming role detection initialized (no notifications)
+2025-08-01T02:17:05.806Z info: Join-to-create voice channel system initialized
+2025-08-01T02:17:05.806Z info: Connecting to Discord...
+2025-08-01T02:17:05.831Z info: Web server started on port 3000
+2025-08-01T02:17:06.524Z info: Bot logged in as ᴗ•#4543
+2025-08-01T02:17:06.525Z info: Started refreshing application (/) commands.
+2025-08-01T02:17:07.067Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T02:17:07.067Z info: Successfully reloaded application (/) commands.
+2025-08-01T02:34:15.675Z error: Failed to add streaming role to Freii: Unknown Role
+2025-08-01T02:34:15.694Z info: Added streaming role to Swarley (359492059456864256)
+2025-08-01T02:40:05.483Z error: Failed to remove streaming role from Freii: Unknown Role
+2025-08-01T02:40:05.775Z info: Removed streaming role from Swarley (359492059456864256)
+2025-08-01T02:43:05.720Z error: Failed to add streaming role to Freii: Unknown Role
+2025-08-01T02:43:05.785Z info: Added streaming role to Swarley (359492059456864256)
+2025-08-01T02:47:34.260Z error: Failed to remove streaming role from Freii: Unknown Role
+2025-08-01T02:47:34.300Z info: Removed streaming role from Swarley (359492059456864256)
+2025-08-01T03:09:35.679Z error: Failed to add streaming role to Freii: Unknown Role
+2025-08-01T03:09:35.700Z info: Added streaming role to Swarley (359492059456864256)
+2025-08-01T03:09:57.538Z error: Failed to remove streaming role from Freii: Unknown Role
+2025-08-01T03:09:57.629Z info: Removed streaming role from Swarley (359492059456864256)
+2025-08-01T04:51:12.949Z info: Streaming role detection initialized (no notifications)
+2025-08-01T04:51:12.953Z info: Join-to-create voice channel system initialized
+2025-08-01T04:51:12.959Z info: Streaming role detection initialized (no notifications)
+2025-08-01T04:51:12.960Z info: Join-to-create voice channel system initialized
+2025-08-01T04:51:12.960Z info: Connecting to Discord...
+2025-08-01T04:51:12.998Z info: Web server started on port 3000
+2025-08-01T04:51:13.466Z info: Bot logged in as ᴗ•#4543
+2025-08-01T04:51:13.467Z info: Started refreshing application (/) commands.
+2025-08-01T04:51:13.918Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T04:51:13.918Z info: Successfully reloaded application (/) commands.
+2025-08-01T15:29:10.318Z info: Streaming role detection initialized (no notifications)
+2025-08-01T15:29:10.320Z info: Join-to-create voice channel system initialized
+2025-08-01T15:29:10.323Z info: Streaming role detection initialized (no notifications)
+2025-08-01T15:29:10.323Z info: Join-to-create voice channel system initialized
+2025-08-01T15:29:10.323Z info: Connecting to Discord...
+2025-08-01T15:29:10.346Z info: Web server started on port 3000
+2025-08-01T15:29:10.806Z info: Bot logged in as ᴗ•#4543
+2025-08-01T15:29:10.806Z info: Started refreshing application (/) commands.
+2025-08-01T15:29:11.363Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T15:29:11.363Z info: Successfully reloaded application (/) commands.
+2025-08-01T16:13:29.722Z info: Ticket #1 created by rdntrcky in KA
+2025-08-01T16:14:16.021Z info: Ticket ticket-1-rdntrcky logged to archived-tickets channel
+2025-08-01T16:14:26.642Z info: Ticket channel 1400874085705191546 deleted by thirteentrese
+2025-08-01T16:15:20.303Z info: Ticket #2 created by rdntrcky in KA
+2025-08-01T16:15:26.498Z info: Ticket ticket-2-rdntrcky logged to archived-tickets channel
+2025-08-01T16:15:37.021Z info: Ticket channel 1400874550459236352 deleted by thirteentrese
+2025-08-01T16:16:11.260Z info: Ticket #3 created by rdntrcky in KA
+2025-08-01T16:26:21.811Z info: Ticket ticket-3-rdntrcky logged to archived-tickets channel
+2025-08-01T16:26:32.352Z info: Ticket channel 1400874763840127047 deleted by thirteentrese
+2025-08-01T16:31:26.197Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:31:26.199Z info: Join-to-create voice channel system initialized
+2025-08-01T16:31:26.202Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:31:26.203Z info: Join-to-create voice channel system initialized
+2025-08-01T16:31:26.203Z info: Connecting to Discord...
+2025-08-01T16:31:26.226Z info: Web server started on port 3000
+2025-08-01T16:31:26.697Z info: Bot logged in as ᴗ•#4543
+2025-08-01T16:31:26.698Z info: Started refreshing application (/) commands.
+2025-08-01T16:31:27.167Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T16:31:27.167Z info: Successfully reloaded application (/) commands.
+2025-08-01T16:31:45.627Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:31:45.629Z info: Join-to-create voice channel system initialized
+2025-08-01T16:31:45.633Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:31:45.633Z info: Join-to-create voice channel system initialized
+2025-08-01T16:31:45.633Z info: Connecting to Discord...
+2025-08-01T16:31:45.657Z info: Web server started on port 3000
+2025-08-01T16:31:46.134Z info: Bot logged in as ᴗ•#4543
+2025-08-01T16:31:46.135Z info: Started refreshing application (/) commands.
+2025-08-01T16:31:46.556Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T16:31:46.556Z info: Successfully reloaded application (/) commands.
+2025-08-01T16:36:27.144Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:36:27.146Z info: Join-to-create voice channel system initialized
+2025-08-01T16:36:27.148Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:36:27.149Z info: Join-to-create voice channel system initialized
+2025-08-01T16:36:27.149Z info: Connecting to Discord...
+2025-08-01T16:36:27.172Z info: Web server started on port 3000
+2025-08-01T16:36:27.790Z info: Bot logged in as ᴗ•#4543
+2025-08-01T16:36:27.790Z info: Started refreshing application (/) commands.
+2025-08-01T16:36:28.245Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T16:36:28.246Z info: Successfully reloaded application (/) commands.
+2025-08-01T16:36:44.164Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:36:44.166Z info: Join-to-create voice channel system initialized
+2025-08-01T16:36:44.169Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:36:44.170Z info: Join-to-create voice channel system initialized
+2025-08-01T16:36:44.170Z info: Connecting to Discord...
+2025-08-01T16:36:44.195Z info: Web server started on port 3000
+2025-08-01T16:36:44.656Z info: Bot logged in as ᴗ•#4543
+2025-08-01T16:36:44.657Z info: Started refreshing application (/) commands.
+2025-08-01T16:36:45.153Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T16:36:45.153Z info: Successfully reloaded application (/) commands.
+2025-08-01T16:36:53.729Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:36:53.731Z info: Join-to-create voice channel system initialized
+2025-08-01T16:36:53.735Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:36:53.735Z info: Join-to-create voice channel system initialized
+2025-08-01T16:36:53.735Z info: Connecting to Discord...
+2025-08-01T16:36:53.759Z info: Web server started on port 3000
+2025-08-01T16:36:55.247Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:36:55.249Z info: Join-to-create voice channel system initialized
+2025-08-01T16:36:55.252Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:36:55.252Z info: Join-to-create voice channel system initialized
+2025-08-01T16:36:55.252Z info: Connecting to Discord...
+2025-08-01T16:36:55.275Z info: Web server started on port 3000
+2025-08-01T16:36:55.869Z info: Bot logged in as ᴗ•#4543
+2025-08-01T16:36:55.869Z info: Started refreshing application (/) commands.
+2025-08-01T16:37:28.648Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T16:37:28.649Z info: Successfully reloaded application (/) commands.
+2025-08-01T16:38:02.522Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:38:02.525Z info: Join-to-create voice channel system initialized
+2025-08-01T16:38:02.530Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:38:02.530Z info: Join-to-create voice channel system initialized
+2025-08-01T16:38:02.530Z info: Connecting to Discord...
+2025-08-01T16:38:02.564Z info: Web server started on port 3000
+2025-08-01T16:38:03.053Z info: Bot logged in as ᴗ•#4543
+2025-08-01T16:38:03.054Z info: Started refreshing application (/) commands.
+2025-08-01T16:38:03.660Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T16:38:03.660Z info: Successfully reloaded application (/) commands.
+2025-08-01T16:38:12.143Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:38:12.145Z info: Join-to-create voice channel system initialized
+2025-08-01T16:38:12.149Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:38:12.149Z info: Join-to-create voice channel system initialized
+2025-08-01T16:38:12.149Z info: Connecting to Discord...
+2025-08-01T16:38:12.175Z info: Web server started on port 3000
+2025-08-01T16:38:12.867Z info: Bot logged in as ᴗ•#4543
+2025-08-01T16:38:12.868Z info: Started refreshing application (/) commands.
+2025-08-01T16:38:13.350Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T16:38:13.350Z info: Successfully reloaded application (/) commands.
+2025-08-01T16:40:03.372Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:40:03.374Z info: Join-to-create voice channel system initialized
+2025-08-01T16:40:03.377Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:40:03.377Z info: Join-to-create voice channel system initialized
+2025-08-01T16:40:03.377Z info: Connecting to Discord...
+2025-08-01T16:40:03.399Z info: Web server started on port 3000
+2025-08-01T16:40:04.109Z info: Bot logged in as ᴗ•#4543
+2025-08-01T16:40:04.109Z info: Started refreshing application (/) commands.
+2025-08-01T16:40:04.435Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T16:40:04.435Z info: Successfully reloaded application (/) commands.
+2025-08-01T16:40:20.296Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:40:20.299Z info: Join-to-create voice channel system initialized
+2025-08-01T16:40:20.302Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:40:20.302Z info: Join-to-create voice channel system initialized
+2025-08-01T16:40:20.303Z info: Connecting to Discord...
+2025-08-01T16:40:20.327Z info: Web server started on port 3000
+2025-08-01T16:40:20.761Z info: Bot logged in as ᴗ•#4543
+2025-08-01T16:40:20.761Z info: Started refreshing application (/) commands.
+2025-08-01T16:40:21.076Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T16:40:21.076Z info: Successfully reloaded application (/) commands.
+2025-08-01T16:41:44.189Z info: [REACTION TEST] ANY reaction detected from rdntrcky (1173844204846317568) with emoji: aprob
+2025-08-01T16:41:44.391Z info: [REACTION DEBUG] Fetched partial reaction
+2025-08-01T16:41:44.391Z info: Processing reaction from rdntrcky (1173844204846317568) with emoji: aprob
+2025-08-01T16:41:44.391Z info: Message has 1 embeds. First embed title: "Tuloy po kayo!"
+2025-08-01T16:41:44.391Z info: Found verification message! Processing reaction...
+2025-08-01T16:41:44.657Z info: Verified user rdntrcky and added Tambay role in guild KA
+2025-08-01T16:41:46.834Z info: [REACTION TEST] ANY reaction detected from rdntrcky (1173844204846317568) with emoji: HuH
+2025-08-01T16:41:46.834Z info: Processing reaction from rdntrcky (1173844204846317568) with emoji: HuH
+2025-08-01T16:41:46.834Z info: Message has 1 embeds. First embed title: "Tuloy po kayo!"
+2025-08-01T16:41:46.834Z info: Found verification message! Processing reaction...
+2025-08-01T16:41:51.095Z info: Sent welcome message for rdntrcky in guild KA
+2025-08-01T16:42:24.924Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:42:24.926Z info: Join-to-create voice channel system initialized
+2025-08-01T16:42:24.929Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:42:24.929Z info: Join-to-create voice channel system initialized
+2025-08-01T16:42:24.929Z info: Connecting to Discord...
+2025-08-01T16:42:24.952Z info: Web server started on port 3000
+2025-08-01T16:42:25.409Z info: Bot logged in as ᴗ•#4543
+2025-08-01T16:42:25.410Z info: Started refreshing application (/) commands.
+2025-08-01T16:42:25.810Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T16:42:25.810Z info: Successfully reloaded application (/) commands.
+2025-08-01T16:44:41.211Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:44:41.213Z info: Join-to-create voice channel system initialized
+2025-08-01T16:44:41.216Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:44:41.217Z info: Join-to-create voice channel system initialized
+2025-08-01T16:44:41.217Z info: Connecting to Discord...
+2025-08-01T16:44:41.251Z info: Web server started on port 3000
+2025-08-01T16:44:41.764Z info: Bot logged in as ᴗ•#4543
+2025-08-01T16:44:41.764Z info: Started refreshing application (/) commands.
+2025-08-01T16:44:42.255Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T16:44:42.256Z info: Successfully reloaded application (/) commands.
+2025-08-01T16:45:04.850Z info: Verified user rdntrcky and added Tambay role in guild KA
+2025-08-01T16:45:05.166Z info: Sent welcome message for rdntrcky in guild KA
+2025-08-01T16:45:38.001Z info: Unverified user rdntrcky and removed Tambay role in guild KA
+2025-08-01T16:47:57.819Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:47:57.822Z info: Join-to-create voice channel system initialized
+2025-08-01T16:47:57.824Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:47:57.825Z info: Join-to-create voice channel system initialized
+2025-08-01T16:47:57.825Z info: Connecting to Discord...
+2025-08-01T16:47:57.848Z info: Web server started on port 3000
+2025-08-01T16:47:58.330Z info: Bot logged in as ᴗ•#4543
+2025-08-01T16:47:58.331Z info: Started refreshing application (/) commands.
+2025-08-01T16:47:58.998Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T16:47:58.998Z info: Successfully reloaded application (/) commands.
+2025-08-01T16:48:37.740Z info: Verified user rdntrcky and added Tambay role in guild KA
+2025-08-01T16:48:37.911Z info: Sent welcome message for rdntrcky in guild KA
+2025-08-01T16:48:49.986Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:48:49.988Z info: Join-to-create voice channel system initialized
+2025-08-01T16:48:49.991Z info: Streaming role detection initialized (no notifications)
+2025-08-01T16:48:49.991Z info: Join-to-create voice channel system initialized
+2025-08-01T16:48:49.991Z info: Connecting to Discord...
+2025-08-01T16:48:50.014Z info: Web server started on port 3000
+2025-08-01T16:48:50.468Z info: Bot logged in as ᴗ•#4543
+2025-08-01T16:48:50.469Z info: Started refreshing application (/) commands.
+2025-08-01T16:48:50.906Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T16:48:50.907Z info: Successfully reloaded application (/) commands.
+2025-08-01T16:49:19.694Z info: Verified user rdntrcky and added Tambay role in guild KA
+2025-08-01T16:49:19.980Z info: Sent welcome message for rdntrcky in guild KA
+2025-08-01T17:33:50.781Z info: Streaming role detection initialized (no notifications)
+2025-08-01T17:33:50.784Z info: Join-to-create voice channel system initialized
+2025-08-01T17:33:50.787Z info: Streaming role detection initialized (no notifications)
+2025-08-01T17:33:50.787Z info: Join-to-create voice channel system initialized
+2025-08-01T17:33:50.788Z info: Connecting to Discord...
+2025-08-01T17:33:50.819Z info: Web server started on port 3000
+2025-08-01T17:33:51.380Z info: Bot logged in as ᴗ•#4543
+2025-08-01T17:33:51.380Z info: Started refreshing application (/) commands.
+2025-08-01T17:33:51.923Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T17:33:51.923Z info: Successfully reloaded application (/) commands.
+2025-08-01T17:35:32.254Z info: Streaming role detection initialized (no notifications)
+2025-08-01T17:35:32.256Z info: Join-to-create voice channel system initialized
+2025-08-01T17:35:32.259Z info: Streaming role detection initialized (no notifications)
+2025-08-01T17:35:32.260Z info: Join-to-create voice channel system initialized
+2025-08-01T17:35:32.260Z info: Connecting to Discord...
+2025-08-01T17:35:32.292Z info: Web server started on port 3000
+2025-08-01T17:35:32.778Z info: Bot logged in as ᴗ•#4543
+2025-08-01T17:35:32.784Z info: Started refreshing application (/) commands.
+2025-08-01T17:35:33.211Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T17:35:33.211Z info: Successfully reloaded application (/) commands.
+2025-08-01T17:36:18.851Z info: Streaming role detection initialized (no notifications)
+2025-08-01T17:36:18.853Z info: Join-to-create voice channel system initialized
+2025-08-01T17:36:18.856Z info: Streaming role detection initialized (no notifications)
+2025-08-01T17:36:18.856Z info: Join-to-create voice channel system initialized
+2025-08-01T17:36:18.857Z info: Connecting to Discord...
+2025-08-01T17:36:18.885Z info: Web server started on port 3000
+2025-08-01T17:36:19.361Z info: Bot logged in as ᴗ•#4543
+2025-08-01T17:36:19.361Z info: Started refreshing application (/) commands.
+2025-08-01T17:36:20.014Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T17:36:20.015Z info: Successfully reloaded application (/) commands.
+2025-08-01T17:37:03.464Z info: Created public voice channel "shern's Channel" (1400895115018637566) for shern
+2025-08-01T17:37:18.948Z info: Cleaned up empty voice channel 1400895115018637566
+2025-08-01T17:39:17.880Z info: Created public voice channel "shern's Channel" (1400895680268206162) for shern
+2025-08-01T17:39:26.000Z info: Tagay command used by thirteentrese in shern's Channel, selected shern
+2025-08-01T17:39:41.159Z info: Tagay command used by thirteentrese in ₁₃'s vc, selected patrick
+2025-08-01T17:39:50.049Z info: Tagay-topics command used by thirteentrese, topic: What's the funniest thing that happened during a family videoke session?
+2025-08-01T17:39:57.982Z info: Tagay-topics command used by thirteentrese, topic: Describe a moment when you realized how much you've changed since moving abroad.
+2025-08-01T17:40:04.266Z info: Tagay-topics command used by .zyx., topic: Tell us about a superstition your family believes in.
+2025-08-01T17:40:24.798Z info: Tagay command used by thirteentrese in ₁₃'s vc, selected jai
+2025-08-01T17:40:32.453Z info: Tagay-topics command used by thirteentrese, topic: What's your favorite Filipino saying or expression and why?
+2025-08-01T17:42:39.139Z info: Cleaned up empty voice channel 1400895680268206162
+2025-08-01T17:42:58.907Z info: Tagay-topics command used by xsmasherx, topic: What's the funniest thing that happened during a family videoke session?
+2025-08-01T18:22:38.297Z info: Streaming role detection initialized (no notifications)
+2025-08-01T18:22:38.299Z info: Join-to-create voice channel system initialized
+2025-08-01T18:22:38.302Z info: Streaming role detection initialized (no notifications)
+2025-08-01T18:22:38.302Z info: Join-to-create voice channel system initialized
+2025-08-01T18:22:38.302Z info: Connecting to Discord...
+2025-08-01T18:22:38.328Z info: Web server started on port 3000
+2025-08-01T18:22:38.915Z info: Bot logged in as ᴗ•#4543
+2025-08-01T18:22:38.916Z info: Started refreshing application (/) commands.
+2025-08-01T18:22:39.276Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T18:22:39.277Z info: Successfully reloaded application (/) commands.
+2025-08-01T18:32:21.120Z info: Streaming role detection initialized (no notifications)
+2025-08-01T18:32:21.122Z info: Join-to-create voice channel system initialized
+2025-08-01T18:32:21.124Z info: Streaming role detection initialized (no notifications)
+2025-08-01T18:32:21.125Z info: Join-to-create voice channel system initialized
+2025-08-01T18:32:21.125Z info: Connecting to Discord...
+2025-08-01T18:32:21.148Z info: Web server started on port 3000
+2025-08-01T18:32:21.683Z info: Bot logged in as ᴗ•#4543
+2025-08-01T18:32:21.683Z info: Started refreshing application (/) commands.
+2025-08-01T18:32:22.033Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T18:32:22.033Z info: Successfully reloaded application (/) commands.
+2025-08-01T18:32:52.627Z info: Streaming role detection initialized (no notifications)
+2025-08-01T18:32:52.629Z info: Join-to-create voice channel system initialized
+2025-08-01T18:32:52.632Z info: Streaming role detection initialized (no notifications)
+2025-08-01T18:32:52.632Z info: Join-to-create voice channel system initialized
+2025-08-01T18:32:52.632Z info: Connecting to Discord...
+2025-08-01T18:32:52.655Z info: Web server started on port 3000
+2025-08-01T18:32:53.139Z info: Bot logged in as ᴗ•#4543
+2025-08-01T18:32:53.139Z info: Started refreshing application (/) commands.
+2025-08-01T18:32:53.521Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T18:32:53.522Z info: Successfully reloaded application (/) commands.
+2025-08-01T18:36:48.785Z info: Streaming role detection initialized (no notifications)
+2025-08-01T18:36:48.788Z info: Join-to-create voice channel system initialized
+2025-08-01T18:36:48.792Z info: Streaming role detection initialized (no notifications)
+2025-08-01T18:36:48.792Z info: Join-to-create voice channel system initialized
+2025-08-01T18:36:48.793Z info: Connecting to Discord...
+2025-08-01T18:36:48.819Z info: Web server started on port 3000
+2025-08-01T18:36:49.369Z info: Bot logged in as ᴗ•#4543
+2025-08-01T18:36:49.370Z info: Started refreshing application (/) commands.
+2025-08-01T18:36:49.706Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T18:36:49.706Z info: Successfully reloaded application (/) commands.
+2025-08-01T18:37:08.826Z info: Streaming role detection initialized (no notifications)
+2025-08-01T18:37:08.828Z info: Join-to-create voice channel system initialized
+2025-08-01T18:37:08.831Z info: Streaming role detection initialized (no notifications)
+2025-08-01T18:37:08.832Z info: Join-to-create voice channel system initialized
+2025-08-01T18:37:08.832Z info: Connecting to Discord...
+2025-08-01T18:37:08.855Z info: Web server started on port 3000
+2025-08-01T18:37:09.463Z info: Bot logged in as ᴗ•#4543
+2025-08-01T18:37:09.464Z info: Started refreshing application (/) commands.
+2025-08-01T18:37:09.860Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T18:37:09.861Z info: Successfully reloaded application (/) commands.
+2025-08-01T18:38:19.499Z info: Streaming role detection initialized (no notifications)
+2025-08-01T18:38:19.501Z info: Join-to-create voice channel system initialized
+2025-08-01T18:38:19.504Z info: Streaming role detection initialized (no notifications)
+2025-08-01T18:38:19.504Z info: Join-to-create voice channel system initialized
+2025-08-01T18:38:19.505Z info: Connecting to Discord...
+2025-08-01T18:38:19.531Z info: Web server started on port 3000
+2025-08-01T18:38:20.029Z info: Bot logged in as ᴗ•#4543
+2025-08-01T18:38:20.029Z info: Started refreshing application (/) commands.
+2025-08-01T18:38:20.524Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T18:38:20.525Z info: Successfully reloaded application (/) commands.
+2025-08-01T18:38:45.424Z info: Streaming role detection initialized (no notifications)
+2025-08-01T18:38:45.426Z info: Join-to-create voice channel system initialized
+2025-08-01T18:38:45.428Z info: Streaming role detection initialized (no notifications)
+2025-08-01T18:38:45.429Z info: Join-to-create voice channel system initialized
+2025-08-01T18:38:45.429Z info: Connecting to Discord...
+2025-08-01T18:38:45.451Z info: Web server started on port 3000
+2025-08-01T18:38:45.956Z info: Bot logged in as ᴗ•#4543
+2025-08-01T18:38:45.957Z info: Started refreshing application (/) commands.
+2025-08-01T18:38:46.619Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T18:38:46.620Z info: Successfully reloaded application (/) commands.
+2025-08-01T18:46:12.954Z info: Raffle "FREE G-CASH" started by thirteentrese in guild 1355432987793297498 with 1 winners
+2025-08-01T18:46:41.561Z info: User thirteentrese entered raffle "FREE G-CASH" in guild 1355432987793297498
+2025-08-01T18:48:15.184Z info: Raffle "FREE G-CASH" ended by thirteentrese, 1 winners (1/1 valid entries): ₁₃
+2025-08-01T18:53:52.757Z info: Streaming role detection initialized (no notifications)
+2025-08-01T18:53:52.759Z info: Join-to-create voice channel system initialized
+2025-08-01T18:53:52.762Z info: Streaming role detection initialized (no notifications)
+2025-08-01T18:53:52.763Z info: Join-to-create voice channel system initialized
+2025-08-01T18:53:52.763Z info: Connecting to Discord...
+2025-08-01T18:53:52.794Z info: Web server started on port 3000
+2025-08-01T18:53:53.334Z info: Bot logged in as ᴗ•#4543
+2025-08-01T18:53:53.334Z info: Started refreshing application (/) commands.
+2025-08-01T18:53:53.818Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T18:53:53.819Z info: Successfully reloaded application (/) commands.
+2025-08-01T18:54:13.643Z info: Streaming role detection initialized (no notifications)
+2025-08-01T18:54:13.646Z info: Join-to-create voice channel system initialized
+2025-08-01T18:54:13.648Z info: Streaming role detection initialized (no notifications)
+2025-08-01T18:54:13.648Z info: Join-to-create voice channel system initialized
+2025-08-01T18:54:13.649Z info: Connecting to Discord...
+2025-08-01T18:54:13.673Z info: Web server started on port 3000
+2025-08-01T18:54:14.153Z info: Bot logged in as ᴗ•#4543
+2025-08-01T18:54:14.153Z info: Started refreshing application (/) commands.
+2025-08-01T18:54:14.890Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T18:54:14.891Z info: Successfully reloaded application (/) commands.
+2025-08-01T19:22:26.533Z info: Raffle "TEST" started by rdntrcky in guild 1355432987793297498 with 2 winners, ending 2026-08-01T15:00:00.000Z
+2025-08-01T19:23:56.182Z info: User rdntrcky entered raffle "TEST" in guild 1355432987793297498
+2025-08-01T19:27:04.294Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:27:04.296Z info: Join-to-create voice channel system initialized
+2025-08-01T19:27:04.298Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:27:04.299Z info: Join-to-create voice channel system initialized
+2025-08-01T19:27:04.299Z info: Connecting to Discord...
+2025-08-01T19:27:04.320Z info: Web server started on port 3000
+2025-08-01T19:27:04.762Z info: Bot logged in as ᴗ•#4543
+2025-08-01T19:27:04.762Z info: Started refreshing application (/) commands.
+2025-08-01T19:27:05.202Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T19:27:05.202Z info: Successfully reloaded application (/) commands.
+2025-08-01T19:27:24.721Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:27:24.723Z info: Join-to-create voice channel system initialized
+2025-08-01T19:27:24.726Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:27:24.726Z info: Join-to-create voice channel system initialized
+2025-08-01T19:27:24.727Z info: Connecting to Discord...
+2025-08-01T19:27:24.755Z info: Web server started on port 3000
+2025-08-01T19:27:25.241Z info: Bot logged in as ᴗ•#4543
+2025-08-01T19:27:25.241Z info: Started refreshing application (/) commands.
+2025-08-01T19:27:25.688Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T19:27:25.688Z info: Successfully reloaded application (/) commands.
+2025-08-01T19:32:17.851Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:32:17.854Z info: Join-to-create voice channel system initialized
+2025-08-01T19:32:17.857Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:32:17.857Z info: Join-to-create voice channel system initialized
+2025-08-01T19:32:17.857Z info: Connecting to Discord...
+2025-08-01T19:32:17.884Z info: Web server started on port 3000
+2025-08-01T19:32:18.560Z info: Bot logged in as ᴗ•#4543
+2025-08-01T19:32:18.560Z info: Started refreshing application (/) commands.
+2025-08-01T19:32:19.020Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T19:32:19.020Z info: Successfully reloaded application (/) commands.
+2025-08-01T19:32:41.963Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:32:41.966Z info: Join-to-create voice channel system initialized
+2025-08-01T19:32:41.969Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:32:41.969Z info: Join-to-create voice channel system initialized
+2025-08-01T19:32:41.969Z info: Connecting to Discord...
+2025-08-01T19:32:41.995Z info: Web server started on port 3000
+2025-08-01T19:32:42.625Z info: Bot logged in as ᴗ•#4543
+2025-08-01T19:32:42.626Z info: Started refreshing application (/) commands.
+2025-08-01T19:32:43.196Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T19:32:43.196Z info: Successfully reloaded application (/) commands.
+2025-08-01T19:34:44.085Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:34:44.088Z info: Join-to-create voice channel system initialized
+2025-08-01T19:34:44.091Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:34:44.091Z info: Join-to-create voice channel system initialized
+2025-08-01T19:34:44.091Z info: Connecting to Discord...
+2025-08-01T19:34:44.114Z info: Web server started on port 3000
+2025-08-01T19:34:44.779Z info: Bot logged in as ᴗ•#4543
+2025-08-01T19:34:44.780Z info: Started refreshing application (/) commands.
+2025-08-01T19:34:45.201Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T19:34:45.202Z info: Successfully reloaded application (/) commands.
+2025-08-01T19:35:03.718Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:35:03.721Z info: Join-to-create voice channel system initialized
+2025-08-01T19:35:03.725Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:35:03.725Z info: Join-to-create voice channel system initialized
+2025-08-01T19:35:03.725Z info: Connecting to Discord...
+2025-08-01T19:35:03.758Z info: Web server started on port 3000
+2025-08-01T19:35:04.414Z info: Bot logged in as ᴗ•#4543
+2025-08-01T19:35:04.415Z info: Started refreshing application (/) commands.
+2025-08-01T19:35:04.995Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T19:35:04.995Z info: Successfully reloaded application (/) commands.
+2025-08-01T19:36:50.141Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:36:50.143Z info: Join-to-create voice channel system initialized
+2025-08-01T19:36:50.146Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:36:50.146Z info: Join-to-create voice channel system initialized
+2025-08-01T19:36:50.147Z info: Connecting to Discord...
+2025-08-01T19:36:50.172Z info: Web server started on port 3000
+2025-08-01T19:36:50.653Z info: Bot logged in as ᴗ•#4543
+2025-08-01T19:36:50.653Z info: Started refreshing application (/) commands.
+2025-08-01T19:36:51.025Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T19:36:51.026Z info: Successfully reloaded application (/) commands.
+2025-08-01T19:46:30.513Z info: Parsing date string: "8/1/25 3:00 pm"
+2025-08-01T19:46:30.514Z info: Matched pattern: ^(\d{1,2})\/(\d{1,2})\/(\d{2,4})\s+(\d{1,2}):(\d{2})\s*(am|pm)$
+2025-08-01T19:46:30.514Z info: Parsed components: month=8, day=1, year=25, hour=3, minute=00, ampm=pm
+2025-08-01T19:46:30.514Z error: Date parsing error for "8/1/25 3:00 pm": End date must be at least 30 seconds in the future
+2025-08-01T19:46:57.253Z info: Parsing date string: "8/1/25 3:00 PM"
+2025-08-01T19:46:57.253Z info: Matched pattern: ^(\d{1,2})\/(\d{1,2})\/(\d{2,4})\s+(\d{1,2}):(\d{2})\s*(am|pm)$
+2025-08-01T19:46:57.254Z info: Parsed components: month=8, day=1, year=25, hour=3, minute=00, ampm=pm
+2025-08-01T19:46:57.254Z error: Date parsing error for "8/1/25 3:00 PM": End date must be at least 30 seconds in the future
+2025-08-01T19:47:19.609Z info: Parsing date string: "8/1/25 3:00 PM"
+2025-08-01T19:47:19.609Z info: Matched pattern: ^(\d{1,2})\/(\d{1,2})\/(\d{2,4})\s+(\d{1,2}):(\d{2})\s*(am|pm)$
+2025-08-01T19:47:19.609Z info: Parsed components: month=8, day=1, year=25, hour=3, minute=00, ampm=pm
+2025-08-01T19:47:19.609Z error: Date parsing error for "8/1/25 3:00 PM": End date must be at least 30 seconds in the future
+2025-08-01T19:48:03.276Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:48:03.278Z info: Join-to-create voice channel system initialized
+2025-08-01T19:48:03.282Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:48:03.282Z info: Join-to-create voice channel system initialized
+2025-08-01T19:48:03.283Z info: Connecting to Discord...
+2025-08-01T19:48:03.309Z info: Web server started on port 3000
+2025-08-01T19:48:03.748Z info: Bot logged in as ᴗ•#4543
+2025-08-01T19:48:03.749Z info: Started refreshing application (/) commands.
+2025-08-01T19:48:04.437Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T19:48:04.437Z info: Successfully reloaded application (/) commands.
+2025-08-01T19:48:37.492Z info: Parsing date string: "8/1/25 3:00 PM"
+2025-08-01T19:48:37.493Z info: Matched pattern: ^(\d{1,2})\/(\d{1,2})\/(\d{2,4})\s+(\d{1,2}):(\d{2})\s*(am|pm)$
+2025-08-01T19:48:37.493Z info: Parsed components: month=8, day=1, year=25, hour=3, minute=00, ampm=pm
+2025-08-01T19:48:37.493Z info: Current time: 2025-08-01T19:48:37.492Z
+2025-08-01T19:48:37.493Z info: Parsed end date: 2025-08-01T15:00:00.000Z
+2025-08-01T19:48:37.493Z info: Time difference: -17317492 ms
+2025-08-01T19:48:37.494Z error: Date parsing error for "8/1/25 3:00 PM": End date must be at least 30 seconds in the future. Your date is -17317 seconds from now.
+2025-08-01T19:48:46.171Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:48:46.173Z info: Join-to-create voice channel system initialized
+2025-08-01T19:48:46.177Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:48:46.177Z info: Join-to-create voice channel system initialized
+2025-08-01T19:48:46.177Z info: Connecting to Discord...
+2025-08-01T19:48:46.200Z info: Web server started on port 3000
+2025-08-01T19:48:46.683Z info: Bot logged in as ᴗ•#4543
+2025-08-01T19:48:46.683Z info: Started refreshing application (/) commands.
+2025-08-01T19:48:47.655Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T19:48:47.656Z info: Successfully reloaded application (/) commands.
+2025-08-01T19:49:03.135Z info: Parsing date string: "8/1/25 5:00 PM"
+2025-08-01T19:49:03.136Z info: Matched pattern: ^(\d{1,2})\/(\d{1,2})\/(\d{2,4})\s+(\d{1,2}):(\d{2})\s*(am|pm)$
+2025-08-01T19:49:03.136Z info: Parsed components: month=8, day=1, year=25, hour=5, minute=00, ampm=pm
+2025-08-01T19:49:03.137Z info: Current time: 2025-08-01T19:49:03.135Z
+2025-08-01T19:49:03.137Z info: Parsed end date: 2025-08-01T17:00:00.000Z
+2025-08-01T19:49:03.137Z info: Time difference: -10143135 ms
+2025-08-01T19:49:03.137Z info: Date was in past, moved to next day: 2025-08-02T17:00:00.000Z
+2025-08-01T19:49:03.377Z info: Raffle "ettset" started by rdntrcky in guild 1355432987793297498 with 2 winners, duration: 1271 minutes, ending 2025-08-02T17:00:00.000Z
+2025-08-01T19:51:24.028Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:51:24.033Z info: Join-to-create voice channel system initialized
+2025-08-01T19:51:24.037Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:51:24.037Z info: Join-to-create voice channel system initialized
+2025-08-01T19:51:24.037Z info: Connecting to Discord...
+2025-08-01T19:51:24.102Z info: Web server started on port 3000
+2025-08-01T19:51:24.779Z info: Bot logged in as ᴗ•#4543
+2025-08-01T19:51:24.779Z info: Started refreshing application (/) commands.
+2025-08-01T19:51:25.432Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T19:51:25.433Z info: Successfully reloaded application (/) commands.
+2025-08-01T19:51:48.361Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:51:48.363Z info: Join-to-create voice channel system initialized
+2025-08-01T19:51:48.366Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:51:48.366Z info: Join-to-create voice channel system initialized
+2025-08-01T19:51:48.366Z info: Connecting to Discord...
+2025-08-01T19:51:48.389Z info: Web server started on port 3000
+2025-08-01T19:51:49.084Z info: Bot logged in as ᴗ•#4543
+2025-08-01T19:51:49.084Z info: Started refreshing application (/) commands.
+2025-08-01T19:51:49.581Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T19:51:49.581Z info: Successfully reloaded application (/) commands.
+2025-08-01T19:55:37.790Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:55:37.793Z info: Join-to-create voice channel system initialized
+2025-08-01T19:55:37.796Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:55:37.797Z info: Join-to-create voice channel system initialized
+2025-08-01T19:55:37.797Z info: Connecting to Discord...
+2025-08-01T19:55:37.829Z info: Web server started on port 3000
+2025-08-01T19:55:38.278Z info: Bot logged in as ᴗ•#4543
+2025-08-01T19:55:38.278Z info: Started refreshing application (/) commands.
+2025-08-01T19:55:38.766Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T19:55:38.767Z info: Successfully reloaded application (/) commands.
+2025-08-01T19:55:52.307Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:55:52.310Z info: Join-to-create voice channel system initialized
+2025-08-01T19:55:52.314Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:55:52.315Z info: Join-to-create voice channel system initialized
+2025-08-01T19:55:52.315Z info: Connecting to Discord...
+2025-08-01T19:55:52.349Z info: Web server started on port 3000
+2025-08-01T19:55:53.086Z info: Bot logged in as ᴗ•#4543
+2025-08-01T19:55:53.087Z info: Started refreshing application (/) commands.
+2025-08-01T19:55:53.460Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T19:55:53.460Z info: Successfully reloaded application (/) commands.
+2025-08-01T19:56:30.721Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:56:30.725Z info: Join-to-create voice channel system initialized
+2025-08-01T19:56:30.729Z info: Streaming role detection initialized (no notifications)
+2025-08-01T19:56:30.730Z info: Join-to-create voice channel system initialized
+2025-08-01T19:56:30.731Z info: Connecting to Discord...
+2025-08-01T19:56:30.767Z info: Web server started on port 3000
+2025-08-01T19:56:32.493Z info: Bot logged in as ᴗ•#4543
+2025-08-01T19:56:32.495Z info: Started refreshing application (/) commands.
+2025-08-01T19:56:32.814Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T19:56:32.814Z info: Successfully reloaded application (/) commands.
+2025-08-01T19:57:46.008Z info: Raffle duration: 1 hours, ending at: 2025-08-01T20:57:46.008Z
+2025-08-01T19:57:46.267Z info: Raffle "TEST!" started by rdntrcky in guild 1355432987793297498 with 2 winners, duration: 60 minutes, ending 2025-08-01T20:57:46.008Z
+2025-08-01T19:58:35.600Z info: Raffle duration: 1 hours, ending at: 2025-08-01T20:58:35.600Z
+2025-08-01T19:58:38.175Z info: Raffle "TEST" started by thirteentrese in guild 1184864945142251530 with 1 winners, duration: 60 minutes, ending 2025-08-01T20:58:35.600Z
+2025-08-01T19:58:59.901Z info: User rdntrcky entered raffle "TEST" via button in guild 1184864945142251530
+2025-08-01T19:59:05.440Z info: User thirteentrese entered raffle "TEST" via button in guild 1184864945142251530
+2025-08-01T19:59:10.145Z info: Raffle "TEST" ended by thirteentrese, 1 winners (2/2 valid entries): shern
+2025-08-01T19:59:10.157Z error: Error in raffle-pick command: Cannot read properties of undefined (reading 'getString')
+2025-08-01T19:59:10.158Z error: Error handling interaction: The reply to this interaction has already been sent or deferred.
+2025-08-01T20:01:31.099Z info: Raffle duration: 1 hours, ending at: 2025-08-01T21:01:31.099Z
+2025-08-01T20:01:31.435Z info: Raffle "Hi" started by thirteentrese in guild 1184864945142251530 with 1 winners, duration: 60 minutes, ending 2025-08-01T21:01:31.099Z
+2025-08-01T20:01:50.350Z info: User rdntrcky entered raffle "Hi" via button in guild 1184864945142251530
+2025-08-01T20:01:55.546Z info: Raffle "Hi" ended by thirteentrese, 1 winners (1/1 valid entries): shern
+2025-08-01T20:01:55.547Z error: Error in raffle-pick command: Cannot read properties of undefined (reading 'getString')
+2025-08-01T20:01:55.548Z error: Error handling interaction: The reply to this interaction has already been sent or deferred.
+2025-08-01T20:02:30.488Z info: Streaming role detection initialized (no notifications)
+2025-08-01T20:02:30.490Z info: Join-to-create voice channel system initialized
+2025-08-01T20:02:30.493Z info: Streaming role detection initialized (no notifications)
+2025-08-01T20:02:30.493Z info: Join-to-create voice channel system initialized
+2025-08-01T20:02:30.493Z info: Connecting to Discord...
+2025-08-01T20:02:30.526Z info: Web server started on port 3000
+2025-08-01T20:02:31.107Z info: Bot logged in as ᴗ•#4543
+2025-08-01T20:02:31.114Z info: Started refreshing application (/) commands.
+2025-08-01T20:02:33.508Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T20:02:33.508Z info: Successfully reloaded application (/) commands.
+2025-08-01T20:03:35.280Z info: Raffle duration: 1 hours, ending at: 2025-08-01T21:03:35.280Z
+2025-08-01T20:03:35.553Z info: Raffle "Last" started by rdntrcky in guild 1355432987793297498 with 1 winners, duration: 60 minutes, ending 2025-08-01T21:03:35.280Z
+2025-08-01T20:03:39.112Z info: User rdntrcky entered raffle "Last" via button in guild 1355432987793297498
+2025-08-01T20:03:44.359Z info: User thirteentrese entered raffle "Last" via button in guild 1355432987793297498
+2025-08-01T20:03:48.754Z info: Raffle "Last" ended by rdntrcky, 1 winners (2/2 valid entries): ₁₃
+2025-08-01T20:06:08.318Z info: Streaming role detection initialized (no notifications)
+2025-08-01T20:06:08.320Z info: Join-to-create voice channel system initialized
+2025-08-01T20:06:08.324Z info: Streaming role detection initialized (no notifications)
+2025-08-01T20:06:08.324Z info: Join-to-create voice channel system initialized
+2025-08-01T20:06:08.325Z info: Connecting to Discord...
+2025-08-01T20:06:08.354Z info: Web server started on port 3000
+2025-08-01T20:06:09.346Z info: Bot logged in as ᴗ•#4543
+2025-08-01T20:06:09.348Z info: Started refreshing application (/) commands.
+2025-08-01T20:06:09.741Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T20:06:09.742Z info: Successfully reloaded application (/) commands.
+2025-08-01T20:08:13.970Z info: Streaming role detection initialized (no notifications)
+2025-08-01T20:08:13.972Z info: Join-to-create voice channel system initialized
+2025-08-01T20:08:13.976Z info: Streaming role detection initialized (no notifications)
+2025-08-01T20:08:13.976Z info: Join-to-create voice channel system initialized
+2025-08-01T20:08:13.977Z info: Connecting to Discord...
+2025-08-01T20:08:14.010Z info: Web server started on port 3000
+2025-08-01T20:08:14.504Z info: Bot logged in as ᴗ•#4543
+2025-08-01T20:08:14.504Z info: Started refreshing application (/) commands.
+2025-08-01T20:08:14.685Z info: Cleared all existing global commands.
+2025-08-01T20:08:14.799Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T20:08:17.223Z info: Successfully reloaded application (/) commands.
+2025-08-01T20:10:49.012Z info: Streaming role detection initialized (no notifications)
+2025-08-01T20:10:49.015Z info: Join-to-create voice channel system initialized
+2025-08-01T20:10:49.017Z info: Streaming role detection initialized (no notifications)
+2025-08-01T20:10:49.018Z info: Join-to-create voice channel system initialized
+2025-08-01T20:10:49.018Z info: Connecting to Discord...
+2025-08-01T20:10:49.048Z info: Web server started on port 3000
+2025-08-01T20:10:49.617Z info: Bot logged in as ᴗ•#4543
+2025-08-01T20:10:49.617Z info: Started refreshing application (/) commands.
+2025-08-01T20:10:49.862Z info: Cleared all existing global commands.
+2025-08-01T20:10:50.007Z info: Cleared guild-specific commands to prevent duplicates.
+2025-08-01T20:10:52.342Z info: Successfully reloaded application (/) commands.
+2025-08-01T20:12:58.791Z info: Streaming role detection initialized (no notifications)
+2025-08-01T20:12:58.793Z info: Join-to-create voice channel system initialized
+2025-08-01T20:12:58.795Z info: Streaming role detection initialized (no notifications)
+2025-08-01T20:12:58.796Z info: Join-to-create voice channel system initialized
+2025-08-01T20:12:58.796Z info: Connecting to Discord...
+2025-08-01T20:12:58.818Z info: Web server started on port 3000
+2025-08-01T20:12:59.358Z info: Bot logged in as ᴗ•#4543
+2025-08-01T20:12:59.358Z info: Started refreshing application (/) commands.
+2025-08-01T20:12:59.546Z info: Cleared all existing global commands.
+2025-08-01T20:12:59.752Z info: Cleared guild-specific commands for guild 1184864945142251530
+2025-08-01T20:12:59.946Z info: Cleared guild-specific commands for guild 1355432987793297498
+2025-08-01T20:13:04.947Z info: Waiting for Discord cache to clear...
+2025-08-01T20:13:05.341Z info: Successfully reloaded application (/) commands.
+2025-08-01T20:15:37.665Z info: Streaming role detection initialized (no notifications)
+2025-08-01T20:15:37.668Z info: Join-to-create voice channel system initialized
+2025-08-01T20:15:37.670Z info: Streaming role detection initialized (no notifications)
+2025-08-01T20:15:37.671Z info: Join-to-create voice channel system initialized
+2025-08-01T20:15:37.671Z info: Connecting to Discord...
+2025-08-01T20:15:37.693Z info: Web server started on port 3000
+2025-08-01T20:15:38.271Z info: Bot logged in as ᴗ•#4543
+2025-08-01T20:15:38.271Z info: Started refreshing application (/) commands.
+2025-08-01T20:15:38.501Z info: Cleared all existing global commands.
+2025-08-01T20:15:38.645Z info: Cleared guild-specific commands for guild 1184864945142251530
+2025-08-01T20:15:38.741Z info: Cleared guild-specific commands for guild 1355432987793297498
+2025-08-01T20:15:43.742Z info: Waiting for Discord cache to clear...
+2025-08-01T20:15:44.080Z info: Successfully reloaded application (/) commands.
+2025-08-01T20:17:33.332Z info: Streaming role detection initialized (no notifications)
+2025-08-01T20:17:33.334Z info: Join-to-create voice channel system initialized
+2025-08-01T20:17:33.337Z info: Streaming role detection initialized (no notifications)
+2025-08-01T20:17:33.337Z info: Join-to-create voice channel system initialized
+2025-08-01T20:17:33.338Z info: Connecting to Discord...
+2025-08-01T20:17:33.371Z info: Web server started on port 3000
+2025-08-01T20:17:33.830Z info: Bot logged in as ᴗ•#4543
+2025-08-01T20:17:33.831Z info: Started refreshing application (/) commands.
+2025-08-01T20:17:34.104Z info: Cleared all existing global commands.
+2025-08-01T20:17:34.289Z info: Cleared guild-specific commands for guild 1184864945142251530
+2025-08-01T20:17:34.455Z info: Cleared guild-specific commands for guild 1355432987793297498
+2025-08-01T20:17:39.456Z info: Waiting for Discord cache to clear...
+2025-08-01T20:17:39.834Z info: Successfully reloaded application (/) commands.
+2025-08-01T20:22:57.544Z info: Streaming role detection initialized (no notifications)
+2025-08-01T20:22:57.547Z info: Join-to-create voice channel system initialized
+2025-08-01T20:22:57.547Z info: Connecting to Discord...
+2025-08-01T20:22:57.570Z info: Web server started on port 3000
+2025-08-01T20:22:58.071Z info: Bot logged in as ᴗ•#4543
+2025-08-01T20:22:58.072Z info: Started refreshing application (/) commands.
+2025-08-01T20:22:58.831Z info: Cleared all existing global commands.
+2025-08-01T20:22:59.216Z info: Cleared guild-specific commands for guild 1184864945142251530
+2025-08-01T20:22:59.320Z info: Cleared guild-specific commands for guild 1355432987793297498
+2025-08-01T20:23:04.321Z info: Waiting for Discord cache to clear...
+2025-08-01T20:23:06.082Z info: Successfully reloaded application (/) commands.
+2025-08-01T20:23:49.825Z info: Streaming role detection initialized (no notifications)
+2025-08-01T20:23:49.827Z info: Join-to-create voice channel system initialized
+2025-08-01T20:23:49.827Z info: Connecting to Discord...
+2025-08-01T20:23:49.851Z info: Web server started on port 3000
+2025-08-01T20:23:50.367Z info: Bot logged in as ᴗ•#4543
+2025-08-01T20:23:50.368Z info: Started refreshing application (/) commands.
+2025-08-01T20:23:50.713Z info: Cleared all existing global commands.
+2025-08-01T20:23:50.892Z info: Cleared guild-specific commands for guild 1184864945142251530
+2025-08-01T20:23:51.078Z info: Cleared guild-specific commands for guild 1355432987793297498
+2025-08-01T20:23:56.080Z info: Waiting for Discord cache to clear...
+2025-08-01T20:24:28.738Z info: Successfully reloaded application (/) commands.
+2025-08-01T20:29:29.954Z info: Streaming role detection initialized (no notifications)
+2025-08-01T20:29:29.957Z info: Join-to-create voice channel system initialized
+2025-08-01T20:29:29.957Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 16 hours)
+2025-08-01T20:29:29.958Z info: Connecting to Discord...
+2025-08-01T20:29:29.993Z info: Web server started on port 3000
+2025-08-01T20:29:30.596Z info: Bot logged in as ᴗ•#4543
+2025-08-01T20:29:30.597Z info: Started refreshing application (/) commands.
+2025-08-01T20:29:30.800Z info: Cleared all existing global commands.
+2025-08-01T20:29:30.987Z info: Cleared guild-specific commands for guild 1184864945142251530
+2025-08-01T20:29:31.239Z info: Cleared guild-specific commands for guild 1355432987793297498
+2025-08-01T20:29:36.241Z info: Waiting for Discord cache to clear...
+2025-08-01T20:29:36.627Z info: Successfully reloaded application (/) commands.
+2025-08-01T20:29:36.627Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 16 hours)
+2025-08-01T20:32:24.046Z info: Streaming role detection initialized (no notifications)
+2025-08-01T20:32:24.048Z info: Join-to-create voice channel system initialized
+2025-08-01T20:32:24.049Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 15 hours)
+2025-08-01T20:32:24.049Z info: Connecting to Discord...
+2025-08-01T20:32:24.088Z info: Web server started on port 3000
+2025-08-01T20:32:24.685Z info: Bot logged in as ᴗ•#4543
+2025-08-01T20:32:24.685Z info: Started refreshing application (/) commands.
+2025-08-01T20:32:24.948Z info: Cleared all existing global commands.
+2025-08-01T20:32:25.101Z info: Cleared guild-specific commands for guild 1184864945142251530
+2025-08-01T20:32:25.225Z info: Cleared guild-specific commands for guild 1355432987793297498
+2025-08-01T20:32:30.226Z info: Waiting for Discord cache to clear...
+2025-08-01T20:32:30.589Z info: Successfully reloaded application (/) commands.
+2025-08-01T20:32:30.589Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 15 hours)
+2025-08-01T20:38:09.208Z info: Streaming role detection initialized (no notifications)
+2025-08-01T20:38:09.209Z info: Join-to-create voice channel system initialized
+2025-08-01T20:38:09.210Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 15 hours)
+2025-08-01T20:38:09.210Z info: Connecting to Discord...
+2025-08-01T20:38:09.232Z info: Web server started on port 3000
+2025-08-01T20:38:09.810Z info: Bot logged in as ᴗ•#4543
+2025-08-01T20:38:09.811Z info: Started refreshing application (/) commands.
+2025-08-01T20:38:10.111Z info: Cleared all existing global commands.
+2025-08-01T20:38:10.298Z info: Cleared guild-specific commands for guild 1184864945142251530
+2025-08-01T20:38:10.427Z info: Cleared guild-specific commands for guild 1355432987793297498
+2025-08-01T20:38:15.428Z info: Waiting for Discord cache to clear...
+2025-08-01T20:38:15.989Z info: Successfully reloaded application (/) commands.
+2025-08-01T20:38:15.989Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 15 hours)
+2025-08-01T20:42:44.607Z info: Streaming role detection initialized (no notifications)
+2025-08-01T20:42:44.608Z info: Join-to-create voice channel system initialized
+2025-08-01T20:42:44.609Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 15 hours)
+2025-08-01T20:42:44.609Z info: Connecting to Discord...
+2025-08-01T20:42:44.636Z info: Web server started on port 3000
+2025-08-01T20:42:45.050Z info: Bot logged in as ᴗ•#4543
+2025-08-01T20:42:45.051Z info: Started refreshing application (/) commands.
+2025-08-01T20:42:45.296Z info: Cleared all existing global commands.
+2025-08-01T20:42:45.460Z info: Cleared guild-specific commands for guild 1184864945142251530
+2025-08-01T20:42:45.583Z info: Cleared guild-specific commands for guild 1355432987793297498
+2025-08-01T20:42:50.585Z info: Waiting for Discord cache to clear...
+2025-08-01T20:42:50.846Z info: Successfully reloaded application (/) commands.
+2025-08-01T20:42:50.847Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 15 hours)
+2025-08-01T20:46:10.632Z info: Streaming role detection initialized (no notifications)
+2025-08-01T20:46:10.633Z info: Pre-configured JTC channels: exclu-vc (private), inclu-vc (public)
+2025-08-01T20:46:10.634Z info: Join-to-create voice channel system initialized
+2025-08-01T20:46:10.634Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 15 hours)
+2025-08-01T20:46:10.634Z info: Connecting to Discord...
+2025-08-01T20:46:10.655Z info: Web server started on port 3000
+2025-08-01T20:46:11.075Z info: Bot logged in as ᴗ•#4543
+2025-08-01T20:46:11.075Z info: Started refreshing application (/) commands.
+2025-08-01T20:46:11.249Z info: Cleared all existing global commands.
+2025-08-01T20:46:11.435Z info: Cleared guild-specific commands for guild 1184864945142251530
+2025-08-01T20:46:11.558Z info: Cleared guild-specific commands for guild 1355432987793297498
+2025-08-01T20:46:16.559Z info: Waiting for Discord cache to clear...
+2025-08-01T20:46:18.797Z info: Successfully reloaded application (/) commands.
+2025-08-01T20:46:18.798Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 15 hours)
+2025-08-01T20:46:57.539Z info: Created JTC channel "shern's Channel" for user rdntrcky (1173844204846317568)
+2025-08-01T20:47:04.205Z info: Deleted empty JTC channel: shern's Channel
+2025-08-01T20:47:06.845Z info: Created JTC channel "shern's Channel" for user rdntrcky (1173844204846317568)
+2025-08-01T20:48:32.681Z info: Deleted empty JTC channel: shern's Channel
+2025-08-01T20:48:34.243Z info: Created JTC channel "shern's Channel" for user rdntrcky (1173844204846317568)
+2025-08-01T20:48:38.734Z info: Deleted empty JTC channel: shern's Channel
+2025-08-01T20:49:54.120Z info: Streaming role detection initialized (no notifications)
+2025-08-01T20:49:54.122Z info: Pre-configured JTC channels: exclu-vc (private), inclu-vc (public)
+2025-08-01T20:49:54.122Z info: Join-to-create voice channel system initialized
+2025-08-01T20:49:54.122Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 15 hours)
+2025-08-01T20:49:54.123Z info: Connecting to Discord...
+2025-08-01T20:49:54.144Z info: Web server started on port 3000
+2025-08-01T20:49:54.848Z info: Bot logged in as ᴗ•#4543
+2025-08-01T20:49:54.849Z info: Started refreshing application (/) commands.
+2025-08-01T20:49:55.099Z info: Cleared all existing global commands.
+2025-08-01T20:49:55.248Z info: Cleared guild-specific commands for guild 1184864945142251530
+2025-08-01T20:49:55.388Z info: Cleared guild-specific commands for guild 1355432987793297498
+2025-08-01T20:50:00.390Z info: Waiting for Discord cache to clear...
+2025-08-01T20:52:12.622Z info: Streaming role detection initialized (no notifications)
+2025-08-01T20:52:12.625Z info: Pre-configured JTC channels: exclu-vc (private), inclu-vc (public)
+2025-08-01T20:52:12.625Z info: Join-to-create voice channel system initialized
+2025-08-01T20:52:12.625Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 15 hours)
+2025-08-01T20:52:12.626Z info: Connecting to Discord...
+2025-08-01T20:52:12.651Z info: Web server started on port 3000
+2025-08-01T20:52:13.101Z info: Bot logged in as ᴗ•#4543
+2025-08-01T20:52:13.101Z info: Started refreshing application (/) commands.
+2025-08-01T20:52:13.218Z info: Cleared all existing global commands.
+2025-08-01T20:52:13.403Z info: Cleared guild-specific commands for guild 1184864945142251530
+2025-08-01T20:52:13.530Z info: Cleared guild-specific commands for guild 1355432987793297498
+2025-08-01T20:52:18.531Z info: Waiting for Discord cache to clear...
+2025-08-01T20:53:39.938Z info: JTC channel created - isPrivate: true, channel: exclu-vc, user: rdntrcky
+2025-08-01T20:53:39.938Z info: Preparing to send private JTC welcome message for rdntrcky
+2025-08-01T20:53:39.939Z info: Announcement channel found: Yes, Channel type: 0
+2025-08-01T20:53:40.139Z info: ✅ Successfully sent private JTC welcome message for rdntrcky to announcements channel
+2025-08-01T20:53:40.140Z info: Created JTC channel "shern's Channel" for user rdntrcky (1173844204846317568)
+2025-08-01T20:54:57.520Z info: Deleted empty JTC channel: shern's Channel
+2025-08-01T20:55:07.412Z info: Streaming role detection initialized (no notifications)
+2025-08-01T20:55:07.414Z info: Pre-configured JTC channels: exclu-vc (private), inclu-vc (public)
+2025-08-01T20:55:07.414Z info: Join-to-create voice channel system initialized
+2025-08-01T20:55:07.415Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 15 hours)
+2025-08-01T20:55:07.416Z info: Connecting to Discord...
+2025-08-01T20:55:07.440Z info: Web server started on port 3000
+2025-08-01T20:55:08.022Z info: Bot logged in as ᴗ•#4543
+2025-08-01T20:55:08.022Z info: Started refreshing application (/) commands.
+2025-08-01T20:55:08.168Z info: Cleared all existing global commands.
+2025-08-01T20:55:08.318Z info: Cleared guild-specific commands for guild 1184864945142251530
+2025-08-01T20:55:08.432Z info: Cleared guild-specific commands for guild 1355432987793297498
+2025-08-01T20:55:13.433Z info: Waiting for Discord cache to clear...
+2025-08-01T20:55:52.698Z info: JTC channel created - isPrivate: true, channel: exclu-vc, user: rdntrcky
+2025-08-01T20:55:52.699Z info: Preparing to send private JTC welcome message for rdntrcky
+2025-08-01T20:55:53.185Z info: ✅ Successfully sent private JTC welcome message for rdntrcky to their private voice channel
+2025-08-01T20:55:53.185Z info: Created JTC channel "shern's Channel" for user rdntrcky (1173844204846317568)
+2025-08-01T20:56:27.099Z info: Deleted empty JTC channel: shern's Channel
+2025-08-01T20:56:32.859Z info: JTC channel created - isPrivate: false, channel: inclu-vc, user: rdntrcky
+2025-08-01T20:56:32.860Z info: Public JTC channel created for rdntrcky - no welcome message needed
+2025-08-01T20:56:32.860Z info: Created JTC channel "shern's Channel" for user rdntrcky (1173844204846317568)
+2025-08-01T20:56:43.230Z info: Deleted empty JTC channel: shern's Channel
+2025-08-01T20:56:52.112Z info: JTC channel created - isPrivate: true, channel: exclu-vc, user: thirteentrese
+2025-08-01T20:56:52.112Z info: Preparing to send private JTC welcome message for thirteentrese
+2025-08-01T20:56:52.391Z info: ✅ Successfully sent private JTC welcome message for thirteentrese to their private voice channel
+2025-08-01T20:56:52.391Z info: Created JTC channel "₁₃'s Channel" for user thirteentrese (730631022772748339)
+2025-08-01T20:57:07.500Z info: Deleted empty JTC channel: ₁₃'s Channel
+2025-08-01T20:58:03.501Z info: Streaming role detection initialized (no notifications)
+2025-08-01T20:58:03.504Z info: Pre-configured JTC channels: exclu-vc (private), inclu-vc (public)
+2025-08-01T20:58:03.504Z info: Join-to-create voice channel system initialized
+2025-08-01T20:58:03.504Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 15 hours)
+2025-08-01T20:58:03.505Z info: Connecting to Discord...
+2025-08-01T20:58:03.532Z info: Web server started on port 3000
+2025-08-01T20:58:04.116Z info: Bot logged in as ᴗ•#4543
+2025-08-01T20:58:04.116Z info: Started refreshing application (/) commands.
+2025-08-01T20:58:04.228Z info: Cleared all existing global commands.
+2025-08-01T20:58:04.366Z info: Cleared guild-specific commands for guild 1184864945142251530
+2025-08-01T20:58:04.468Z info: Cleared guild-specific commands for guild 1355432987793297498
+2025-08-01T20:58:09.469Z info: Waiting for Discord cache to clear...
+2025-08-01T20:59:09.869Z info: JTC channel created - isPrivate: true, channel: exclu-vc, user: thirteentrese
+2025-08-01T20:59:09.870Z info: Preparing to send private JTC welcome message for thirteentrese
+2025-08-01T20:59:10.067Z info: ✅ Successfully sent private JTC welcome message for thirteentrese to their private voice channel
+2025-08-01T20:59:10.067Z info: Created JTC channel "₁₃'s Channel" for user thirteentrese (730631022772748339)
+2025-08-01T20:59:20.430Z info: Deleted empty JTC channel: ₁₃'s Channel
+2025-08-01T20:59:20.874Z info: JTC channel created - isPrivate: false, channel: inclu-vc, user: thirteentrese
+2025-08-01T20:59:20.874Z info: Public JTC channel created for thirteentrese - no welcome message needed
+2025-08-01T20:59:20.875Z info: Created JTC channel "₁₃'s Channel" for user thirteentrese (730631022772748339)
+2025-08-01T20:59:25.884Z info: Deleted empty JTC channel: ₁₃'s Channel
+2025-08-01T20:59:28.171Z info: JTC channel created - isPrivate: true, channel: exclu-vc, user: thirteentrese
+2025-08-01T20:59:28.172Z info: Preparing to send private JTC welcome message for thirteentrese
+2025-08-01T20:59:28.520Z info: ✅ Successfully sent private JTC welcome message for thirteentrese to their private voice channel
+2025-08-01T20:59:28.520Z info: Created JTC channel "₁₃'s Channel" for user thirteentrese (730631022772748339)
+2025-08-01T20:59:46.552Z info: Deleted empty JTC channel: ₁₃'s Channel
+2025-08-01T21:01:01.179Z info: Streaming role detection initialized (no notifications)
+2025-08-01T21:01:01.182Z info: Pre-configured JTC channels: exclu-vc (private), inclu-vc (public)
+2025-08-01T21:01:01.182Z info: Join-to-create voice channel system initialized
+2025-08-01T21:01:01.183Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 15 hours)
+2025-08-01T21:01:01.183Z info: Connecting to Discord...
+2025-08-01T21:01:01.219Z info: Web server started on port 3000
+2025-08-01T21:01:01.757Z info: Bot logged in as ᴗ•#4543
+2025-08-01T21:01:01.757Z info: Started refreshing application (/) commands.
+2025-08-01T21:01:01.868Z info: Cleared all existing global commands.
+2025-08-01T21:01:02.195Z info: Cleared guild-specific commands for guild 1184864945142251530
+2025-08-01T21:01:02.364Z info: Cleared guild-specific commands for guild 1355432987793297498
+2025-08-01T21:01:07.365Z info: Waiting for Discord cache to clear...
+2025-08-01T21:02:07.878Z info: Set permissions for 2 admin/mod roles on private channel
+2025-08-01T21:02:07.879Z info: Created PRIVATE JTC channel "₁₃'s Channel" - hidden from @everyone
+2025-08-01T21:02:08.020Z info: JTC channel created - isPrivate: true, channel: exclu-vc, user: thirteentrese
+2025-08-01T21:02:08.021Z info: Preparing to send private JTC welcome message for thirteentrese
+2025-08-01T21:02:08.171Z info: ✅ Successfully sent private JTC welcome message for thirteentrese to their private voice channel
+2025-08-01T21:02:08.171Z info: Created JTC channel "₁₃'s Channel" for user thirteentrese (730631022772748339)
+2025-08-01T21:02:36.141Z info: Set permissions for 2 admin/mod roles on private channel
+2025-08-01T21:02:36.141Z info: Created PRIVATE JTC channel "shern's Channel" - hidden from @everyone
+2025-08-01T21:02:36.624Z info: JTC channel created - isPrivate: true, channel: exclu-vc, user: rdntrcky
+2025-08-01T21:02:36.624Z info: Preparing to send private JTC welcome message for rdntrcky
+2025-08-01T21:02:36.796Z info: ✅ Successfully sent private JTC welcome message for rdntrcky to their private voice channel
+2025-08-01T21:02:36.797Z info: Created JTC channel "shern's Channel" for user rdntrcky (1173844204846317568)
+2025-08-01T21:03:02.529Z info: Deleted empty JTC channel: shern's Channel
+2025-08-01T21:03:05.800Z info: Deleted empty JTC channel: ₁₃'s Channel
+2025-08-01T21:04:13.587Z info: Streaming role detection initialized (no notifications)
+2025-08-01T21:04:13.590Z info: Pre-configured JTC channels: exclu-vc (private), inclu-vc (public)
+2025-08-01T21:04:13.591Z info: Join-to-create voice channel system initialized
+2025-08-01T21:04:13.591Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 15 hours)
+2025-08-01T21:04:13.592Z info: Connecting to Discord...
+2025-08-01T21:04:13.656Z info: Web server started on port 3000
+2025-08-01T21:04:14.218Z info: Bot logged in as ᴗ•#4543
+2025-08-01T21:04:14.248Z info: Started refreshing application (/) commands.
+2025-08-01T21:04:14.386Z info: Cleared all existing global commands.
+2025-08-01T21:04:14.560Z info: Cleared guild-specific commands for guild 1184864945142251530
+2025-08-01T21:04:14.653Z info: Cleared guild-specific commands for guild 1355432987793297498
+2025-08-01T21:04:19.655Z info: Waiting for Discord cache to clear...
+2025-08-01T21:05:07.816Z info: Set permissions for 2 admin/mod roles on private channel
+2025-08-01T21:05:07.816Z info: Created PRIVATE JTC channel "₁₃'s Channel" - hidden from @everyone
+2025-08-01T21:05:08.124Z info: JTC channel created - isPrivate: true, channel: exclu-vc, user: thirteentrese
+2025-08-01T21:05:08.124Z info: Preparing to send private JTC welcome message for thirteentrese
+2025-08-01T21:05:08.393Z info: ✅ Successfully sent private JTC welcome message for thirteentrese to their private voice channel
+2025-08-01T21:05:08.393Z info: Created JTC channel "₁₃'s Channel" for user thirteentrese (730631022772748339)
+2025-08-01T21:06:14.490Z info: Streaming role detection initialized (no notifications)
+2025-08-01T21:06:14.492Z info: Pre-configured JTC channels: exclu-vc (private), inclu-vc (public)
+2025-08-01T21:06:14.493Z info: Join-to-create voice channel system initialized
+2025-08-01T21:06:14.493Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 15 hours)
+2025-08-01T21:06:14.493Z info: Connecting to Discord...
+2025-08-01T21:06:14.520Z info: Web server started on port 3000
+2025-08-01T21:06:14.955Z info: Bot logged in as ᴗ•#4543
+2025-08-01T21:06:14.956Z info: Started refreshing application (/) commands.
+2025-08-01T21:06:15.090Z info: Cleared all existing global commands.
+2025-08-01T21:06:15.291Z info: Cleared guild-specific commands for guild 1184864945142251530
+2025-08-01T21:06:15.448Z info: Cleared guild-specific commands for guild 1355432987793297498
+2025-08-01T21:06:20.449Z info: Waiting for Discord cache to clear...
+2025-08-01T21:07:02.671Z error: Failed to create JTC channel: Supplied parameter is not a cached User or Role.
+2025-08-01T21:07:03.116Z error: Failed to create JTC channel: Supplied parameter is not a cached User or Role.
+2025-08-01T21:07:13.492Z info: Created PUBLIC JTC channel "₁₃'s Channel" - visible to all
+2025-08-01T21:07:13.695Z info: JTC channel created - isPrivate: false, channel: inclu-vc, user: thirteentrese
+2025-08-01T21:07:13.696Z info: Public JTC channel created for thirteentrese - no welcome message needed
+2025-08-01T21:07:13.696Z info: Created JTC channel "₁₃'s Channel" for user thirteentrese (730631022772748339)
+2025-08-01T21:07:13.870Z info: Created PUBLIC JTC channel "₁₃'s Channel" - visible to all
+2025-08-01T21:07:14.011Z info: JTC channel created - isPrivate: false, channel: inclu-vc, user: thirteentrese
+2025-08-01T21:07:14.011Z info: Public JTC channel created for thirteentrese - no welcome message needed
+2025-08-01T21:07:14.011Z info: Created JTC channel "₁₃'s Channel" for user thirteentrese (730631022772748339)
+2025-08-01T21:07:15.225Z info: Deleted empty JTC channel: ₁₃'s Channel
+2025-08-01T21:07:17.470Z info: Deleted empty JTC channel: ₁₃'s Channel
+2025-08-01T21:07:18.309Z error: Failed to create JTC channel: Supplied parameter is not a cached User or Role.
+2025-08-01T21:08:13.704Z info: Streaming role detection initialized (no notifications)
+2025-08-01T21:08:13.706Z info: Pre-configured JTC channels: exclu-vc (private), inclu-vc (public)
+2025-08-01T21:08:13.706Z info: Join-to-create voice channel system initialized
+2025-08-01T21:08:13.707Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 15 hours)
+2025-08-01T21:08:13.707Z info: Connecting to Discord...
+2025-08-01T21:08:13.737Z info: Web server started on port 3000
+2025-08-01T21:08:14.352Z info: Bot logged in as ᴗ•#4543
+2025-08-01T21:08:14.352Z info: Started refreshing application (/) commands.
+2025-08-01T21:08:14.590Z info: Cleared all existing global commands.
+2025-08-01T21:08:14.889Z info: Cleared guild-specific commands for guild 1184864945142251530
+2025-08-01T21:08:14.991Z info: Cleared guild-specific commands for guild 1355432987793297498
+2025-08-01T21:08:19.993Z info: Waiting for Discord cache to clear...
+2025-08-01T21:08:50.074Z info: Set permissions for 2 admin/mod roles and Tambay role on private channel
+2025-08-01T21:08:50.074Z info: Created PRIVATE JTC channel "₁₃'s Channel" - hidden from @everyone
+2025-08-01T21:08:50.298Z info: JTC channel created - isPrivate: true, channel: exclu-vc, user: thirteentrese
+2025-08-01T21:08:50.298Z info: Preparing to send private JTC welcome message for thirteentrese
+2025-08-01T21:08:50.570Z info: ✅ Successfully sent private JTC welcome message for thirteentrese to their private voice channel
+2025-08-01T21:08:50.570Z info: Created JTC channel "₁₃'s Channel" for user thirteentrese (730631022772748339)
+2025-08-01T21:10:11.137Z info: Streaming role detection initialized (no notifications)
+2025-08-01T21:10:11.139Z info: Pre-configured JTC channels: exclu-vc (private), inclu-vc (public)
+2025-08-01T21:10:11.139Z info: Join-to-create voice channel system initialized
+2025-08-01T21:10:11.140Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 15 hours)
+2025-08-01T21:10:11.140Z info: Connecting to Discord...
+2025-08-01T21:10:11.169Z info: Web server started on port 3000
+2025-08-01T21:10:11.775Z info: Bot logged in as ᴗ•#4543
+2025-08-01T21:10:11.775Z info: Started refreshing application (/) commands.
+2025-08-01T21:10:12.065Z info: Cleared all existing global commands.
+2025-08-01T21:10:12.216Z info: Cleared guild-specific commands for guild 1184864945142251530
+2025-08-01T21:10:12.495Z info: Cleared guild-specific commands for guild 1355432987793297498
+2025-08-01T21:10:17.496Z info: Waiting for Discord cache to clear...
+2025-08-01T21:11:11.966Z info: Set permissions for 2 admin/mod roles and Tambay role on private channel
+2025-08-01T21:11:11.966Z info: Created PRIVATE JTC channel "₁₃'s Channel" - hidden from @everyone
+2025-08-01T21:11:12.129Z info: JTC channel created - isPrivate: true, channel: exclu-vc, user: thirteentrese
+2025-08-01T21:11:12.130Z info: Preparing to send private JTC welcome message for thirteentrese
+2025-08-01T21:11:12.303Z info: ✅ Successfully sent private JTC welcome message for thirteentrese to their private voice channel
+2025-08-01T21:11:12.303Z info: Created JTC channel "₁₃'s Channel" for user thirteentrese (730631022772748339)
+2025-08-01T21:11:36.121Z info: Deleted empty JTC channel: ₁₃'s Channel
+2025-08-01T21:13:06.271Z info: Streaming role detection initialized (no notifications)
+2025-08-01T21:13:06.273Z info: Pre-configured JTC channels: exclu-vc (private), inclu-vc (public)
+2025-08-01T21:13:06.274Z info: Join-to-create voice channel system initialized
+2025-08-01T21:13:06.274Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 15 hours)
+2025-08-01T21:13:06.274Z info: Connecting to Discord...
+2025-08-01T21:13:06.304Z info: Web server started on port 3000
+2025-08-01T21:13:06.919Z info: Bot logged in as ᴗ•#4543
+2025-08-01T21:13:06.920Z info: Started refreshing application (/) commands.
+2025-08-01T21:13:07.019Z info: Cleared all existing global commands.
+2025-08-01T21:13:07.183Z info: Cleared guild-specific commands for guild 1184864945142251530
+2025-08-01T21:13:07.310Z info: Cleared guild-specific commands for guild 1355432987793297498
+2025-08-01T21:13:12.311Z info: Waiting for Discord cache to clear...
+2025-08-01T21:13:46.578Z info: Set permissions for 2 admin/mod roles and Tambay role on private channel
+2025-08-01T21:13:46.579Z info: Created PRIVATE JTC channel "₁₃'s Channel" - hidden from @everyone
+2025-08-01T21:13:46.808Z info: JTC channel created - isPrivate: true, channel: exclu-vc, user: thirteentrese
+2025-08-01T21:13:46.808Z info: Preparing to send private JTC welcome message for thirteentrese
+2025-08-01T21:13:47.021Z info: ✅ Successfully sent private JTC welcome message for thirteentrese to their private voice channel
+2025-08-01T21:13:47.022Z info: Created JTC channel "₁₃'s Channel" for user thirteentrese (730631022772748339)
+2025-08-01T21:13:52.386Z info: ✅ Granted explicit permissions to rdntrcky in private JTC channel ₁₃'s Channel
+2025-08-01T21:14:04.156Z info: Deleted empty JTC channel: ₁₃'s Channel
+2025-08-01T21:14:10.204Z info: Set permissions for 2 admin/mod roles and Tambay role on private channel
+2025-08-01T21:14:10.205Z info: Created PRIVATE JTC channel "₁₃'s Channel" - hidden from @everyone
+2025-08-01T21:14:10.348Z info: JTC channel created - isPrivate: true, channel: exclu-vc, user: thirteentrese
+2025-08-01T21:14:10.348Z info: Preparing to send private JTC welcome message for thirteentrese
+2025-08-01T21:14:10.560Z info: ✅ Successfully sent private JTC welcome message for thirteentrese to their private voice channel
+2025-08-01T21:14:10.560Z info: Created JTC channel "₁₃'s Channel" for user thirteentrese (730631022772748339)
+2025-08-01T21:14:16.710Z info: ✅ Granted explicit permissions to rdntrcky in private JTC channel ₁₃'s Channel
+2025-08-01T21:15:34.215Z info: Streaming role detection initialized (no notifications)
+2025-08-01T21:15:34.217Z info: Pre-configured JTC channels: exclu-vc (private), inclu-vc (public)
+2025-08-01T21:15:34.218Z info: Join-to-create voice channel system initialized
+2025-08-01T21:15:34.218Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 15 hours)
+2025-08-01T21:15:34.218Z info: Connecting to Discord...
+2025-08-01T21:15:34.248Z info: Web server started on port 3000
+2025-08-01T21:15:38.872Z info: Bot logged in as ᴗ•#4543
+2025-08-01T21:15:38.873Z info: Started refreshing application (/) commands.
+2025-08-01T21:15:39.009Z info: Cleared all existing global commands.
+2025-08-01T21:15:39.210Z info: Cleared guild-specific commands for guild 1184864945142251530
+2025-08-01T21:15:39.310Z info: Cleared guild-specific commands for guild 1355432987793297498
+2025-08-01T21:15:44.312Z info: Waiting for Discord cache to clear...
+2025-08-01T21:16:17.879Z info: Set permissions for 2 admin/mod roles on private channel
+2025-08-01T21:16:17.879Z info: Created PRIVATE JTC channel "₁₃'s Channel" - invite-only
+2025-08-01T21:16:18.036Z info: JTC channel created - isPrivate: true, channel: exclu-vc, user: thirteentrese
+2025-08-01T21:16:18.036Z info: Preparing to send private JTC welcome message for thirteentrese
+2025-08-01T21:16:18.306Z info: ✅ Successfully sent private JTC welcome message for thirteentrese to their private voice channel
+2025-08-01T21:16:18.307Z info: Created JTC channel "₁₃'s Channel" for user thirteentrese (730631022772748339)
+2025-08-01T21:16:30.006Z info: ✅ Granted access permissions to rdntrcky for private JTC channel ₁₃'s Channel
+2025-08-01T21:16:40.864Z info: Deleted empty JTC channel: ₁₃'s Channel
+2025-08-01T21:16:44.394Z info: Set permissions for 2 admin/mod roles on private channel
+2025-08-01T21:16:44.394Z info: Created PRIVATE JTC channel "shern's Channel" - invite-only
+2025-08-01T21:16:44.613Z info: JTC channel created - isPrivate: true, channel: exclu-vc, user: rdntrcky
+2025-08-01T21:16:44.613Z info: Preparing to send private JTC welcome message for rdntrcky
+2025-08-01T21:16:44.764Z info: ✅ Successfully sent private JTC welcome message for rdntrcky to their private voice channel
+2025-08-01T21:16:44.764Z info: Created JTC channel "shern's Channel" for user rdntrcky (1173844204846317568)
+2025-08-01T21:16:52.986Z info: ✅ Granted access permissions to thirteentrese for private JTC channel shern's Channel
+2025-08-01T21:16:59.198Z info: Deleted empty JTC channel: shern's Channel
+2025-08-01T21:18:41.092Z info: Streaming role detection initialized (no notifications)
+2025-08-01T21:18:41.095Z info: Pre-configured JTC channels: exclu-vc (private), inclu-vc (public)
+2025-08-01T21:18:41.095Z info: Join-to-create voice channel system initialized
+2025-08-01T21:18:41.095Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 15 hours)
+2025-08-01T21:18:41.096Z info: Connecting to Discord...
+2025-08-01T21:18:41.134Z info: Web server started on port 3000
+2025-08-01T21:18:41.671Z info: Bot logged in as ᴗ•#4543
+2025-08-01T21:18:41.672Z info: Started refreshing application (/) commands.
+2025-08-01T21:18:41.798Z info: Cleared all existing global commands.
+2025-08-01T21:18:41.930Z info: Cleared guild-specific commands for guild 1184864945142251530
+2025-08-01T21:18:42.034Z info: Cleared guild-specific commands for guild 1355432987793297498
+2025-08-01T21:18:47.036Z info: Waiting for Discord cache to clear...
+2025-08-01T21:19:41.866Z info: Set permissions for 2 admin/mod roles on private channel - Tambay role denied MoveMembers
+2025-08-01T21:19:41.867Z info: Created PRIVATE JTC channel "₁₃'s Channel" - invite-only, owner-controlled access
+2025-08-01T21:19:42.106Z info: JTC channel created - isPrivate: true, channel: exclu-vc, user: thirteentrese
+2025-08-01T21:19:42.106Z info: Preparing to send private JTC welcome message for thirteentrese
+2025-08-01T21:19:42.319Z info: ✅ Successfully sent private JTC welcome message for thirteentrese to their private voice channel
+2025-08-01T21:19:42.319Z info: Created JTC channel "₁₃'s Channel" for user thirteentrese (730631022772748339)
+2025-08-01T21:20:06.849Z info: Set permissions for 2 admin/mod roles on private channel - Tambay role denied MoveMembers
+2025-08-01T21:20:06.850Z info: Created PRIVATE JTC channel "shern's Channel" - invite-only, owner-controlled access
+2025-08-01T21:20:07.290Z info: JTC channel created - isPrivate: true, channel: exclu-vc, user: rdntrcky
+2025-08-01T21:20:07.290Z info: Preparing to send private JTC welcome message for rdntrcky
+2025-08-01T21:20:07.549Z info: ✅ Successfully sent private JTC welcome message for rdntrcky to their private voice channel
+2025-08-01T21:20:07.549Z info: Created JTC channel "shern's Channel" for user rdntrcky (1173844204846317568)
+2025-08-01T21:21:38.407Z info: Set permissions for 2 admin/mod roles on private channel - Tambay role denied MoveMembers
+2025-08-01T21:21:38.407Z info: Created PRIVATE JTC channel "Freii's Channel" - invite-only, owner-controlled access
+2025-08-01T21:21:38.621Z info: JTC channel created - isPrivate: true, channel: exclu-vc, user: freii
+2025-08-01T21:21:38.622Z info: Preparing to send private JTC welcome message for freii
+2025-08-01T21:21:38.820Z info: ✅ Successfully sent private JTC welcome message for freii to their private voice channel
+2025-08-01T21:21:38.820Z info: Created JTC channel "Freii's Channel" for user freii (359492059456864256)
+2025-08-01T21:22:18.707Z info: Deleted empty JTC channel: Freii's Channel
+2025-08-01T21:22:31.613Z info: Deleted empty JTC channel: shern's Channel
+2025-08-01T21:26:01.720Z info: Created PUBLIC JTC channel "shern's Channel" - visible to all
+2025-08-01T21:26:01.936Z info: JTC channel created - isPrivate: false, channel: inclu-vc, user: rdntrcky
+2025-08-01T21:26:01.936Z info: Public JTC channel created for rdntrcky - no welcome message needed
+2025-08-01T21:26:01.936Z info: Created JTC channel "shern's Channel" for user rdntrcky (1173844204846317568)
+2025-08-01T21:26:06.218Z info: Set permissions for 2 admin/mod roles on private channel - Tambay role denied MoveMembers
+2025-08-01T21:26:06.218Z info: Created PRIVATE JTC channel "shern's Channel" - invite-only, owner-controlled access
+2025-08-01T21:26:06.874Z info: JTC channel created - isPrivate: true, channel: exclu-vc, user: rdntrcky
+2025-08-01T21:26:06.874Z info: Preparing to send private JTC welcome message for rdntrcky
+2025-08-01T21:26:07.204Z info: ✅ Successfully sent private JTC welcome message for rdntrcky to their private voice channel
+2025-08-01T21:26:07.204Z info: Created JTC channel "shern's Channel" for user rdntrcky (1173844204846317568)
+2025-08-01T21:26:08.694Z info: Deleted empty JTC channel: shern's Channel
+2025-08-01T21:26:22.159Z info: Deleted empty JTC channel: ₁₃'s Channel
+2025-08-01T21:26:23.387Z info: ✅ Granted access permissions to thirteentrese for private JTC channel shern's Channel
+2025-08-01T21:26:39.017Z info: Deleted empty JTC channel: shern's Channel
+2025-08-01T21:26:41.121Z info: Set permissions for 2 admin/mod roles on private channel - Tambay role denied MoveMembers
+2025-08-01T21:26:41.121Z info: Created PRIVATE JTC channel "₁₃'s Channel" - invite-only, owner-controlled access
+2025-08-01T21:26:41.339Z info: JTC channel created - isPrivate: true, channel: exclu-vc, user: thirteentrese
+2025-08-01T21:26:41.339Z info: Preparing to send private JTC welcome message for thirteentrese
+2025-08-01T21:26:41.586Z info: ✅ Successfully sent private JTC welcome message for thirteentrese to their private voice channel
+2025-08-01T21:26:41.586Z info: Created JTC channel "₁₃'s Channel" for user thirteentrese (730631022772748339)
+2025-08-01T21:26:45.431Z info: Set permissions for 2 admin/mod roles on private channel - Tambay role denied MoveMembers
+2025-08-01T21:26:45.431Z info: Created PRIVATE JTC channel "shern's Channel" - invite-only, owner-controlled access
+2025-08-01T21:26:45.598Z info: JTC channel created - isPrivate: true, channel: exclu-vc, user: rdntrcky
+2025-08-01T21:26:45.599Z info: Preparing to send private JTC welcome message for rdntrcky
+2025-08-01T21:26:45.816Z info: ✅ Successfully sent private JTC welcome message for rdntrcky to their private voice channel
+2025-08-01T21:26:45.816Z info: Created JTC channel "shern's Channel" for user rdntrcky (1173844204846317568)
+2025-08-01T21:26:52.405Z info: ✅ Granted access permissions to rdntrcky for private JTC channel ₁₃'s Channel
+2025-08-01T21:26:53.554Z info: Deleted empty JTC channel: shern's Channel
+2025-08-01T21:26:57.110Z info: Set permissions for 2 admin/mod roles on private channel - Tambay role denied MoveMembers
+2025-08-01T21:26:57.110Z info: Created PRIVATE JTC channel "shern's Channel" - invite-only, owner-controlled access
+2025-08-01T21:26:57.290Z info: JTC channel created - isPrivate: true, channel: exclu-vc, user: rdntrcky
+2025-08-01T21:26:57.290Z info: Preparing to send private JTC welcome message for rdntrcky
+2025-08-01T21:26:57.821Z info: ✅ Successfully sent private JTC welcome message for rdntrcky to their private voice channel
+2025-08-01T21:26:57.821Z info: Created JTC channel "shern's Channel" for user rdntrcky (1173844204846317568)
+2025-08-01T21:27:01.680Z info: ✅ Granted access permissions to thirteentrese for private JTC channel shern's Channel
+2025-08-01T21:27:02.862Z info: Deleted empty JTC channel: ₁₃'s Channel
+2025-08-01T21:27:09.817Z info: Set permissions for 2 admin/mod roles on private channel - Tambay role denied MoveMembers
+2025-08-01T21:27:09.817Z info: Created PRIVATE JTC channel "₁₃'s Channel" - invite-only, owner-controlled access
+2025-08-01T21:27:10.003Z info: JTC channel created - isPrivate: true, channel: exclu-vc, user: thirteentrese
+2025-08-01T21:27:10.003Z info: Preparing to send private JTC welcome message for thirteentrese
+2025-08-01T21:27:10.150Z info: ✅ Successfully sent private JTC welcome message for thirteentrese to their private voice channel
+2025-08-01T21:27:10.150Z info: Created JTC channel "₁₃'s Channel" for user thirteentrese (730631022772748339)
+2025-08-01T21:27:24.045Z info: Deleted empty JTC channel: ₁₃'s Channel
+2025-08-01T21:27:26.059Z info: ✅ Granted access permissions to thirteentrese for private JTC channel shern's Channel
+2025-08-01T21:27:28.306Z info: Deleted empty JTC channel: shern's Channel
+2025-08-01T21:27:32.490Z info: Created PUBLIC JTC channel "shern's Channel" - visible to all
+2025-08-01T21:27:32.815Z info: JTC channel created - isPrivate: false, channel: inclu-vc, user: rdntrcky
+2025-08-01T21:27:32.816Z info: Public JTC channel created for rdntrcky - no welcome message needed
+2025-08-01T21:27:32.816Z info: Created JTC channel "shern's Channel" for user rdntrcky (1173844204846317568)
+2025-08-01T21:27:35.406Z info: Created PUBLIC JTC channel "₁₃'s Channel" - visible to all
+2025-08-01T21:27:35.575Z info: JTC channel created - isPrivate: false, channel: inclu-vc, user: thirteentrese
+2025-08-01T21:27:35.575Z info: Public JTC channel created for thirteentrese - no welcome message needed
+2025-08-01T21:27:35.575Z info: Created JTC channel "₁₃'s Channel" for user thirteentrese (730631022772748339)
+2025-08-01T21:27:41.242Z info: Deleted empty JTC channel: ₁₃'s Channel
+2025-08-01T21:27:48.433Z info: Deleted empty JTC channel: shern's Channel
+2025-08-01T21:30:47.339Z info: Streaming role detection initialized (no notifications)
+2025-08-01T21:30:47.341Z info: Pre-configured JTC channels: exclu-vc (private), inclu-vc (public)
+2025-08-01T21:30:47.341Z info: Join-to-create voice channel system initialized
+2025-08-01T21:30:47.342Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 14 hours)
+2025-08-01T21:30:47.342Z info: Connecting to Discord...
+2025-08-01T21:30:47.366Z info: Web server started on port 3000
+2025-08-01T21:30:47.799Z info: Bot logged in as ᴗ•#4543
+2025-08-01T21:30:47.800Z info: Started refreshing application (/) commands.
+2025-08-01T21:30:47.899Z info: Cleared all existing global commands.
+2025-08-01T21:30:48.033Z info: Cleared guild-specific commands for guild 1184864945142251530
+2025-08-01T21:30:48.130Z info: Cleared guild-specific commands for guild 1355432987793297498
+2025-08-01T21:30:53.132Z info: Waiting for Discord cache to clear...
+2025-08-01T21:31:18.560Z info: Streaming role detection initialized (no notifications)
+2025-08-01T21:31:18.562Z info: Pre-configured JTC channels: exclu-vc (private), inclu-vc (public)
+2025-08-01T21:31:18.562Z info: Join-to-create voice channel system initialized
+2025-08-01T21:31:18.563Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 14 hours)
+2025-08-01T21:31:18.563Z info: Connecting to Discord...
+2025-08-01T21:31:18.588Z info: Web server started on port 3000
+2025-08-01T21:31:19.154Z info: Bot logged in as ᴗ•#4543
+2025-08-01T21:31:19.154Z info: Started refreshing application (/) commands.
+2025-08-01T21:31:19.272Z info: Cleared all existing global commands.
+2025-08-01T21:31:19.446Z info: Cleared guild-specific commands for guild 1184864945142251530
+2025-08-01T21:31:19.528Z info: Cleared guild-specific commands for guild 1355432987793297498
+2025-08-01T21:31:24.529Z info: Waiting for Discord cache to clear...
+2025-08-01T21:33:14.963Z info: Streaming role detection initialized (no notifications)
+2025-08-01T21:33:14.965Z info: Pre-configured JTC channels: exclu-vc (private), inclu-vc (public)
+2025-08-01T21:33:14.965Z info: Join-to-create voice channel system initialized
+2025-08-01T21:33:14.966Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 14 hours)
+2025-08-01T21:33:14.966Z info: Connecting to Discord...
+2025-08-01T21:33:14.992Z info: Web server started on port 3000
+2025-08-01T21:33:15.543Z info: Bot logged in as ᴗ•#4543
+2025-08-01T21:33:15.543Z info: Started refreshing application (/) commands.
+2025-08-01T21:34:02.589Z info: Streaming role detection initialized (no notifications)
+2025-08-01T21:34:02.591Z info: Pre-configured JTC channels: exclu-vc (private), inclu-vc (public)
+2025-08-01T21:34:02.591Z info: Join-to-create voice channel system initialized
+2025-08-01T21:34:02.592Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 14 hours)
+2025-08-01T21:34:02.592Z info: Connecting to Discord...
+2025-08-01T21:34:02.613Z info: Web server started on port 3000
+2025-08-01T21:34:03.041Z info: Bot logged in as ᴗ•#4543
+2025-08-01T21:34:03.041Z info: Started refreshing application (/) commands.
+2025-08-01T21:34:45.428Z info: Streaming role detection initialized (no notifications)
+2025-08-01T21:34:45.430Z info: Pre-configured JTC channels: exclu-vc (private), inclu-vc (public)
+2025-08-01T21:34:45.431Z info: Join-to-create voice channel system initialized
+2025-08-01T21:34:45.431Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 14 hours)
+2025-08-01T21:34:45.432Z info: Connecting to Discord...
+2025-08-01T21:34:45.460Z info: Web server started on port 3000
+2025-08-01T21:34:45.973Z info: Bot logged in as ᴗ•#4543
+2025-08-01T21:34:45.973Z info: Started refreshing application (/) commands.
+2025-08-01T21:35:15.981Z error: Error registering slash commands: Command registration timed out after 30 seconds
+2025-08-01T21:35:15.982Z error: Command registration failed - commands may not be available
+2025-08-01T21:35:15.982Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 14 hours)
+2025-08-01T21:35:43.771Z info: Streaming role detection initialized (no notifications)
+2025-08-01T21:35:43.774Z info: Pre-configured JTC channels: exclu-vc (private), inclu-vc (public)
+2025-08-01T21:35:43.774Z info: Join-to-create voice channel system initialized
+2025-08-01T21:35:43.775Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 14 hours)
+2025-08-01T21:35:43.775Z info: Connecting to Discord...
+2025-08-01T21:35:43.807Z info: Web server started on port 3000
+2025-08-01T21:35:44.270Z info: Bot logged in as ᴗ•#4543
+2025-08-01T21:35:44.271Z info: Registering test commands...
+2025-08-01T21:36:49.861Z info: Streaming role detection initialized (no notifications)
+2025-08-01T21:36:49.863Z info: Pre-configured JTC channels: exclu-vc (private), inclu-vc (public)
+2025-08-01T21:36:49.864Z info: Join-to-create voice channel system initialized
+2025-08-01T21:36:49.864Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 14 hours)
+2025-08-01T21:36:49.864Z info: Connecting to Discord...
+2025-08-01T21:36:49.888Z info: Web server started on port 3000
+2025-08-01T21:36:50.397Z info: Bot logged in as ᴗ•#4543
+2025-08-01T21:36:50.397Z info: Started refreshing application (/) commands.
+2025-08-01T21:36:50.399Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 14 hours)
+2025-08-01T21:37:20.406Z error: Error registering slash commands: Command registration timed out after 30 seconds
+2025-08-01T21:37:20.407Z error: Command registration failed - commands may not be available
+2025-08-01T21:41:51.647Z info: Created PUBLIC JTC channel "₁₃'s Channel" - visible to all
+2025-08-01T21:41:51.823Z info: JTC channel created - isPrivate: false, channel: inclu-vc, user: thirteentrese
+2025-08-01T21:41:51.824Z info: Public JTC channel created for thirteentrese - no welcome message needed
+2025-08-01T21:41:51.824Z info: Created JTC channel "₁₃'s Channel" for user thirteentrese (730631022772748339)
+2025-08-01T21:41:55.345Z info: Set permissions for 2 admin/mod roles on private channel - Tambay role denied MoveMembers
+2025-08-01T21:41:55.345Z info: Created PRIVATE JTC channel "₁₃'s Channel" - invite-only, owner-controlled access
+2025-08-01T21:41:55.514Z info: JTC channel created - isPrivate: true, channel: exclu-vc, user: thirteentrese
+2025-08-01T21:41:55.514Z info: Preparing to send private JTC welcome message for thirteentrese
+2025-08-01T21:41:55.925Z info: ✅ Successfully sent private JTC welcome message for thirteentrese to their private voice channel
+2025-08-01T21:41:55.925Z info: Created JTC channel "₁₃'s Channel" for user thirteentrese (730631022772748339)
+2025-08-01T21:41:57.243Z info: Deleted empty JTC channel: ₁₃'s Channel
+2025-08-01T21:42:01.040Z info: Created PUBLIC JTC channel "shern's Channel" - visible to all
+2025-08-01T21:42:01.182Z info: JTC channel created - isPrivate: false, channel: inclu-vc, user: rdntrcky
+2025-08-01T21:42:01.182Z info: Public JTC channel created for rdntrcky - no welcome message needed
+2025-08-01T21:42:01.182Z info: Created JTC channel "shern's Channel" for user rdntrcky (1173844204846317568)
+2025-08-01T21:42:12.032Z info: Set permissions for 2 admin/mod roles on private channel - Tambay role denied MoveMembers
+2025-08-01T21:42:12.032Z info: Created PRIVATE JTC channel "shern's Channel" - invite-only, owner-controlled access
+2025-08-01T21:42:12.181Z info: JTC channel created - isPrivate: true, channel: exclu-vc, user: rdntrcky
+2025-08-01T21:42:12.181Z info: Preparing to send private JTC welcome message for rdntrcky
+2025-08-01T21:42:12.694Z info: ✅ Successfully sent private JTC welcome message for rdntrcky to their private voice channel
+2025-08-01T21:42:12.695Z info: Created JTC channel "shern's Channel" for user rdntrcky (1173844204846317568)
+2025-08-01T21:42:13.852Z info: Deleted empty JTC channel: shern's Channel
+2025-08-01T21:42:21.564Z info: Deleted empty JTC channel: ₁₃'s Channel
+2025-08-01T21:42:23.058Z info: ✅ Granted access permissions to thirteentrese for private JTC channel shern's Channel
+2025-08-01T21:42:25.365Z info: Deleted empty JTC channel: shern's Channel
+2025-08-01T21:45:26.603Z info: Streaming role detection initialized (no notifications)
+2025-08-01T21:45:26.606Z info: Pre-configured JTC channels: exclu-vc (private), inclu-vc (public)
+2025-08-01T21:45:26.606Z info: Join-to-create voice channel system initialized
+2025-08-01T21:45:26.607Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 14 hours)
+2025-08-01T21:45:26.607Z info: Connecting to Discord...
+2025-08-01T21:45:26.637Z info: Web server started on port 3000
+2025-08-01T21:45:28.644Z info: Bot logged in as ᴗ•#4543
+2025-08-01T21:45:28.645Z info: Started refreshing application (/) commands.
+2025-08-01T21:45:28.645Z info: Attempting to register 16 commands...
+2025-08-01T21:45:28.646Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 14 hours)
+2025-08-01T21:45:28.759Z info: Cleared existing commands
+2025-08-01T21:45:30.760Z info: Prepared command: help
+2025-08-01T21:45:30.761Z info: Prepared command: muli
+2025-08-01T21:45:30.761Z info: Prepared command: ka
+2025-08-01T21:45:30.761Z info: Prepared command: manage-msg
+2025-08-01T21:45:30.761Z info: Prepared command: logs
+2025-08-01T21:45:30.761Z info: Prepared command: warn
+2025-08-01T21:45:30.761Z info: Prepared command: user-warnings
+2025-08-01T21:45:30.762Z info: Prepared command: clear-warnings
+2025-08-01T21:45:30.762Z info: Prepared command: ticket
+2025-08-01T21:45:30.762Z info: Prepared command: media-only
+2025-08-01T21:45:30.762Z info: Prepared command: manage-media
+2025-08-01T21:45:30.762Z info: Prepared command: join-to-create
+2025-08-01T21:45:30.762Z info: Prepared command: manage-jtc
+2025-08-01T21:45:30.762Z info: Prepared command: tagay
+2025-08-01T21:45:30.762Z info: Prepared command: tagay-topics
+2025-08-01T21:45:30.763Z info: Prepared command: raffle
+2025-08-01T21:45:30.763Z info: Registering 16 valid commands...
+2025-08-01T21:45:45.773Z error: Command registration failed: Registration timeout - Discord API may be slow
+2025-08-01T21:45:45.774Z info: Attempting minimal command registration...
+2025-08-01T21:46:30.616Z info: Streaming role detection initialized (no notifications)
+2025-08-01T21:46:30.619Z info: Pre-configured JTC channels: exclu-vc (private), inclu-vc (public)
+2025-08-01T21:46:30.619Z info: Join-to-create voice channel system initialized
+2025-08-01T21:46:30.619Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 14 hours)
+2025-08-01T21:46:30.620Z info: Connecting to Discord...
+2025-08-01T21:46:30.648Z info: Web server started on port 3000
+2025-08-01T21:46:31.600Z info: Bot logged in as ᴗ•#4543
+2025-08-01T21:46:31.601Z info: Started refreshing application (/) commands.
+2025-08-01T21:46:31.601Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 14 hours)
+2025-08-01T21:46:31.709Z info: Cleared existing commands
+2025-08-01T21:46:34.712Z info: Registering 4 essential commands first...
+2025-08-01T23:20:06.455Z info: Streaming role detection initialized (no notifications)
+2025-08-01T23:20:06.457Z info: Pre-configured JTC channels: exclu-vc (private), inclu-vc (public)
+2025-08-01T23:20:06.458Z info: Join-to-create voice channel system initialized
+2025-08-01T23:20:06.458Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 13 hours)
+2025-08-01T23:20:06.458Z info: Connecting to Discord...
+2025-08-01T23:20:06.487Z info: Web server started on port 3000
+2025-08-01T23:20:07.161Z info: Bot logged in as ᴗ•#4543
+2025-08-01T23:20:07.161Z info: Started refreshing application (/) commands.
+2025-08-01T23:20:07.162Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 13 hours)
+2025-08-01T23:20:07.265Z info: Cleared existing commands
+2025-08-01T23:20:10.268Z info: Registering 4 essential commands first...
+2025-08-01T23:34:02.182Z info: Streaming role detection initialized (no notifications)
+2025-08-01T23:34:02.184Z info: Pre-configured JTC channels: exclu-vc (private), inclu-vc (public)
+2025-08-01T23:34:02.184Z info: Join-to-create voice channel system initialized
+2025-08-01T23:34:02.185Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 12 hours)
+2025-08-01T23:34:02.185Z info: Connecting to Discord...
+2025-08-01T23:34:02.206Z info: Web server started on port 3000
+2025-08-01T23:34:02.649Z info: Bot logged in as ᴗ•#4543
+2025-08-01T23:34:02.650Z info: Started refreshing application (/) commands.
+2025-08-01T23:34:02.650Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 12 hours)
+2025-08-01T23:34:02.764Z info: Cleared existing commands
+2025-08-01T23:34:05.767Z info: Registering 4 essential commands first...
+2025-08-01T23:35:06.947Z info: Streaming role detection initialized (no notifications)
+2025-08-01T23:35:06.949Z info: Pre-configured JTC channels: exclu-vc (private), inclu-vc (public)
+2025-08-01T23:35:06.950Z info: Join-to-create voice channel system initialized
+2025-08-01T23:35:06.950Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 12 hours)
+2025-08-01T23:35:06.950Z info: Connecting to Discord...
+2025-08-01T23:35:06.982Z info: Web server started on port 3000
+2025-08-01T23:35:07.460Z info: Bot logged in as ᴗ•#4543
+2025-08-01T23:35:07.460Z info: Started refreshing application (/) commands.
+2025-08-01T23:35:07.461Z info: Christmas countdown scheduled for daily messages at 12:00 PM (next run in 12 hours)
+2025-08-01T23:35:07.571Z info: Cleared existing commands
+2025-08-01T23:35:10.575Z info: Registering 4 essential commands first...
